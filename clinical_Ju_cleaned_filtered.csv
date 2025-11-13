@@ -1,0 +1,561 @@
+﻿cases.case_id,cases.days_to_consent,cases.disease_type,cases.submitter_id,demographic.days_to_death,demographic.race,demographic.vital_status,demographic.age_at_index,diagnoses.age_at_diagnosis,diagnoses.classification_of_tumor,diagnoses.days_to_last_follow_up,diagnoses.diagnosis_is_primary_disease,diagnoses.figo_stage,diagnoses.primary_diagnosis,diagnoses.prior_malignancy,diagnoses.tumor_grade,treatment_Chemotherapy,treatment_Hormone_Therapy,treatment_Pharmaceutical_Therapy_NOS,treatment_Radiation,treatment_Surgery_Minimally_Invasive,treatment_Surgery_NOS,treatment_Surgery_Open,treatment_Targeted_Molecular_Therapy
+001e0309-9c50-42b0-9e38-347883ee2cd3,14,Adenomas and Adenocarcinomas,TCGA-D1-A17N,'--,'--,Alive,46,17045,primary,46,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+002724fa-7051-49fa-9c58-4bcb7eba4ac6,-8,"Cystic, Mucinous and Serous Neoplasms",TCGA-BG-A0M6,671,white,Dead,73,26666,primary,671,TRUE,Stage IIIC2,"Serous cystadenocarcinoma, NOS",yes,G3,1,0,1,1,0,0,1,0
+0119eab6-00e7-4346-aa52-cbbeeba3621d,-1,Adenomas and Adenocarcinomas,TCGA-AX-A05T,'--,white,Alive,82,30137,primary,1010,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+016e515e-7f78-4997-9b97-3628464d9222,7,Adenomas and Adenocarcinomas,TCGA-D1-A2G5,'--,white,Alive,50,18322,primary,1455,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",yes,G3,0,0,1,1,0,0,1,0
+01ed791e-3187-4e24-a5ff-afff0778c152,19,Adenomas and Adenocarcinomas,TCGA-D1-A1O7,'--,white,Alive,60,22037,primary,32,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+0264c9c2-6b6a-485c-98f5-aed4f52ed0ca,63,"Cystic, Mucinous and Serous Neoplasms",TCGA-KP-A3W3,'--,white,Alive,72,26310,primary,794,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+027b2a29-2fad-4ca8-a7cd-eb913d0205f8,1291,Adenomas and Adenocarcinomas,TCGA-B5-A11J,'--,white,Alive,64,23485,primary,1656,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+029f0f1d-dd22-44d2-a623-cb9a33cb9438,7,Adenomas and Adenocarcinomas,TCGA-EY-A2OQ,'--,white,Alive,61,22309,primary,885,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+02af18ee-ab8e-4ac3-b22e-dec80c201058,5319,Adenomas and Adenocarcinomas,TCGA-B5-A1MR,'--,white,Alive,65,24017,primary,6859,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+02b25675-094d-4098-96da-51d121380fec,264,Adenomas and Adenocarcinomas,TCGA-A5-A0R7,'--,white,Alive,55,20250,primary,535,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+02b2cd50-221f-437c-a1ce-6da1467ec809,11,Adenomas and Adenocarcinomas,TCGA-D1-A17M,'--,white,Alive,56,20685,primary,311,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+0305db4a-62ee-4ecb-bede-032981298732,11,Adenomas and Adenocarcinomas,TCGA-D1-A161,'--,white,Alive,78,28695,primary,892,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+03381d49-e25f-4376-8e36-f47063a7d3fb,-6,Adenomas and Adenocarcinomas,TCGA-QS-A5YQ,'--,black or african american,Alive,55,20425,primary,759,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G1,1,0,1,1,1,0,0,0
+0547cdfa-c488-4da0-9bb5-4cc63a637179,42,Adenomas and Adenocarcinomas,TCGA-A5-A0GP,'--,asian,Alive,58,21365,primary,1416,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+0648f046-2206-4b97-9b6e-419c2e325b6d,56,Adenomas and Adenocarcinomas,TCGA-A5-A0VO,875,white,Dead,64,23547,primary,875,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+06728b1b-6b69-4467-8e10-a8a4e6328ac8,51,Adenomas and Adenocarcinomas,TCGA-EY-A3L3,'--,black or african american,Alive,82,30138,primary,832,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+068016e2-7829-493c-b8be-d3b85beaab13,18,"Cystic, Mucinous and Serous Neoplasms",TCGA-EY-A2OO,'--,white,Alive,56,20797,primary,1392,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+06d16b6b-9ca6-4cec-a785-f27aa4323cec,21,Adenomas and Adenocarcinomas,TCGA-A5-A0R8,'--,white,Alive,81,29777,primary,596,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+077bdc90-1bbd-49ec-93a5-729b1ac1ba8d,14,Adenomas and Adenocarcinomas,TCGA-E6-A2P9,'--,white,Alive,65,24088,primary,1386,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+07b24a23-3d9f-4591-800f-8738cc232f9a,1004,Adenomas and Adenocarcinomas,TCGA-B5-A11L,2240,white,Dead,71,26120,primary,2240,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",'--,G2,0,0,1,1,1,0,0,0
+07c805c2-ff09-4d5a-95f8-1d7d9f84c33c,6,"Cystic, Mucinous and Serous Neoplasms",TCGA-D1-A3JQ,'--,white,Alive,61,22297,primary,526,TRUE,Stage IIIC,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+07d1aef3-31c7-4c44-a078-16a9eb096d58,10,Adenomas and Adenocarcinomas,TCGA-AP-A1DH,'--,white,Alive,62,22652,primary,2180,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+082e32c5-7f82-466a-b52d-a3293a8f8e57,14,Adenomas and Adenocarcinomas,TCGA-BG-A0MT,'--,white,Alive,64,23574,primary,644,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+0878e44d-bdc8-4d5f-9bf4-31101f14f797,9,Adenomas and Adenocarcinomas,TCGA-EO-A3AY,'--,'--,Alive,58,21291,primary,1163,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,1,0,0
+08b11e0e-5b8e-45ea-9b6b-30e3185b03d7,18,Adenomas and Adenocarcinomas,TCGA-AP-A05N,726,white,Dead,58,21254,primary,726,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+09066fbf-6a1d-46c9-a4c5-c53340c3d1ba,9,Adenomas and Adenocarcinomas,TCGA-BS-A0TE,146,asian,Dead,35,12983,primary,146,TRUE,Stage IVB,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+09621bd6-3eed-4af4-8416-cdacffce68d9,'--,'--,TCGA-FL-A1YI,'--,'--,'--,'--,'--,'--,'--,'--,,'--,'--,'--,0,0,0,0,0,0,0,0
+0a9faff7-ec4d-4b5a-aa83-6fa358f72074,7,Adenomas and Adenocarcinomas,TCGA-D1-A1NY,'--,white,Alive,67,24683,primary,513,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+0b0a54ac-bb74-40a4-b647-d067fb9de1ff,'--,'--,TCGA-FL-A1YF,'--,'--,'--,'--,'--,'--,'--,'--,,'--,'--,'--,0,0,0,0,0,0,0,0
+0b2eb188-dd23-4dbf-91bb-02e3c81a69bc,27,Adenomas and Adenocarcinomas,TCGA-AP-A1E4,'--,white,Alive,54,19814,primary,1555,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,1,1,1,1,1,0,0,0
+0b670df6-c487-4ed6-9b48-ef4b01a1aec3,15,"Cystic, Mucinous and Serous Neoplasms",TCGA-D1-A16S,'--,white,Alive,70,25690,primary,568,TRUE,Stage IIIC,"Serous cystadenocarcinoma, NOS",no,High Grade,0,0,1,1,0,0,1,0
+0b672aa4-fc13-476f-b61e-5f2c3a615c23,271,Adenomas and Adenocarcinomas,TCGA-B5-A11U,'--,black or african american,Alive,74,27160,primary,509,TRUE,Stage IVB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+0c01c673-e396-47b2-9562-4144d7705ebf,3,Adenomas and Adenocarcinomas,TCGA-D1-A0ZV,'--,white,Alive,58,21374,primary,728,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+0c1946a8-ee54-4b9b-8054-9a7bece74d33,1347,Adenomas and Adenocarcinomas,TCGA-B5-A3FB,'--,black or african american,Alive,73,26779,primary,2844,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+0cc9a11f-1ac4-431d-8f94-52a3bc02b572,36,"Cystic, Mucinous and Serous Neoplasms",TCGA-EO-A2CH,590,'--,Dead,73,26966,primary,590,TRUE,Stage IVB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,1,1,0
+0ce940f2-9eb1-4757-8f8f-147a4f3a1e67,11,Adenomas and Adenocarcinomas,TCGA-D1-A0ZR,'--,white,Alive,57,21157,primary,17,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+0da7bbd4-ed8d-474b-b494-cb93c5fa811e,1059,Adenomas and Adenocarcinomas,TCGA-B5-A0JS,'--,white,Alive,54,19995,primary,2627,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+0e9c36fd-2d5d-48da-8364-f8c5edc3d873,8,Adenomas and Adenocarcinomas,TCGA-D1-A16Y,'--,white,Alive,56,20455,primary,532,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+0f064588-2d7e-439a-90a6-dfa17bb8af15,14,Adenomas and Adenocarcinomas,TCGA-AP-A1DR,'--,black or african american,Alive,59,21904,primary,1495,TRUE,Stage IIIC1,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,1,0,0,0
+0f361166-2b7d-4ef5-9f8f-ee2488548a0b,55,Adenomas and Adenocarcinomas,TCGA-A5-A1OJ,'--,asian,Alive,31,11635,primary,1006,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+0f36c3a2-0ba5-4c43-a3f0-78d125e5d0ac,25,Adenomas and Adenocarcinomas,TCGA-B5-A1MV,'--,white,Alive,84,30926,primary,1565,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+0f59bb0a-135c-4793-b1a7-5ad5172ed82d,25,Adenomas and Adenocarcinomas,TCGA-BG-A187,'--,white,Alive,65,24099,primary,448,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+10eb7dfa-d43d-479f-8c46-c0424207f958,30,Adenomas and Adenocarcinomas,TCGA-EO-A22X,'--,'--,Alive,36,13245,primary,1752,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+11285dc5-8742-477a-8692-af1b6e2c1434,11,Adenomas and Adenocarcinomas,TCGA-AX-A0IZ,'--,white,Alive,53,19364,primary,1333,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+119b1761-a5b4-42b6-9971-ece11fb0e0f6,56,Adenomas and Adenocarcinomas,TCGA-BK-A6W3,'--,black or african american,Alive,34,12590,primary,305,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,1,0,0
+1200c8b7-a058-4c01-bbe2-04ec09a65245,25,Adenomas and Adenocarcinomas,TCGA-AP-A0LD,'--,white,Alive,63,23216,primary,3589,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+129a49d4-edb8-4a1d-aabb-51b9ad5a8dd1,36,Adenomas and Adenocarcinomas,TCGA-D1-A17F,'--,white,Alive,68,25116,primary,39,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+12d36a1d-9922-4311-bbda-71f32ac2c03b,21,Adenomas and Adenocarcinomas,TCGA-BG-A0MQ,'--,white,Alive,71,26284,primary,1817,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+12df24c6-1229-4777-ad90-7dd66259b65f,142,"Cystic, Mucinous and Serous Neoplasms",TCGA-AJ-A3OK,'--,white,Alive,73,26851,primary,485,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+139e2c5a-cc0c-43a2-b30e-b8ac17c0b5f2,28,Adenomas and Adenocarcinomas,TCGA-B5-A3FH,'--,black or african american,Alive,74,27221,primary,841,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+13b97e99-f6b7-4253-b7e1-230cce2d8747,32,Adenomas and Adenocarcinomas,TCGA-EY-A1GJ,'--,black or african american,Alive,73,26715,primary,727,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+13f31bcb-befd-4ed2-adc0-dc9e9ce52b75,12,Adenomas and Adenocarcinomas,TCGA-BS-A0TG,'--,white,Alive,60,22043,primary,2371,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+1486a031-b74d-4976-8b0b-4569e6978f49,7,Adenomas and Adenocarcinomas,TCGA-A5-A0GD,3423,white,Dead,75,27399,primary,3423,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+14c03068-8930-472a-9fd1-49c9fd4db47d,14,"Cystic, Mucinous and Serous Neoplasms",TCGA-D1-A15X,'--,white,Alive,45,16532,primary,909,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,High Grade,0,0,1,1,0,0,1,0
+14db56ef-ec5e-4775-a229-5d83e58e027c,64,"Cystic, Mucinous and Serous Neoplasms",TCGA-AJ-A3EK,'--,white,Alive,53,19609,primary,446,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+16745dfb-8b28-4f5d-9ef1-2aa31ccb7293,-51,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A3G3,'--,white,Alive,58,21308,primary,42,TRUE,Stage IIIA,"Serous cystadenocarcinoma, NOS",yes,G3,0,0,1,1,0,0,1,0
+16ac4341-cf8f-45e2-b90b-2d12d5f74a59,19,Adenomas and Adenocarcinomas,TCGA-5B-A90C,'--,black or african american,Alive,69,25518,primary,1202,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,1,0,0,0
+16bde24f-61b8-458d-aca3-df4806abbd1b,10,Adenomas and Adenocarcinomas,TCGA-EY-A1GI,'--,white,Alive,52,19117,primary,710,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+16e69011-c295-479f-b521-86e66fba498d,17,"Cystic, Mucinous and Serous Neoplasms",TCGA-D1-A16G,834,white,Dead,74,27065,primary,834,TRUE,Stage IV,"Serous cystadenocarcinoma, NOS",no,High Grade,1,0,1,1,0,0,1,0
+170bbbac-940f-4e1b-b0b8-60fa36d0fa23,33,Adenomas and Adenocarcinomas,TCGA-D1-A160,'--,white,Alive,70,25673,primary,112,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+1944e155-b765-48c3-9602-6787c105e551,8,Adenomas and Adenocarcinomas,TCGA-EY-A5W2,'--,black or african american,Alive,72,26498,primary,516,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+19511f9e-7b0e-4a06-998d-c1837d37c6ec,13,Adenomas and Adenocarcinomas,TCGA-B5-A121,'--,white,Alive,57,21018,primary,504,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+1a094c2b-9fba-4bb1-929d-bb2cdf874bee,22,"Cystic, Mucinous and Serous Neoplasms",TCGA-EY-A1GM,995,black or african american,Dead,60,22010,primary,995,TRUE,Stage IIIA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,1,0,0
+1a36d5de-a097-4323-90e9-f1b924a8a5d8,0,"Cystic, Mucinous and Serous Neoplasms",TCGA-KJ-A3U4,'--,white,Alive,55,20392,primary,1095,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",yes,G1,0,1,1,1,0,0,1,0
+1addcd66-79ab-4976-9679-37f0f31ba1df,52,"Cystic, Mucinous and Serous Neoplasms",TCGA-AJ-A3NG,'--,white,Alive,83,30351,primary,475,TRUE,Stage II,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+1b35d083-f7c9-47d2-9a9e-718788f9e39a,13,Adenomas and Adenocarcinomas,TCGA-FI-A2D0,'--,white,Alive,55,20393,primary,1213,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+1b685c46-57b3-4052-b5b9-1f704809bf04,41,Adenomas and Adenocarcinomas,TCGA-AP-A1DV,'--,white,Alive,59,21901,primary,204,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+1c4d225e-e065-4e26-9413-78f54a7e0cf5,55,Adenomas and Adenocarcinomas,TCGA-BK-A4ZD,'--,black or african american,Alive,42,15536,primary,506,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+1c7b41fc-daa7-4a6e-b553-aff73e8ebac6,13,Adenomas and Adenocarcinomas,TCGA-AX-A0J0,'--,white,Alive,47,17466,primary,1220,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+1d9c2113-ddcb-4440-89c3-cd21cee6d401,7,Adenomas and Adenocarcinomas,TCGA-BG-A0M7,'--,white,Alive,60,22096,primary,1937,TRUE,Stage IIIC1,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,0,0,1,0
+1dcf33e9-4c9b-4b2b-914e-15e6be5dcd07,78,Adenomas and Adenocarcinomas,TCGA-AJ-A3NE,'--,white,Alive,46,16957,primary,628,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+1e5053ae-9a78-41ed-81cd-1a43756fca09,'--,'--,TCGA-FL-A1YT,'--,'--,'--,'--,'--,'--,'--,'--,,'--,'--,'--,0,0,0,0,0,0,0,0
+1f9b1b71-8753-4cd5-a585-708bea8ff1fa,'--,Adenomas and Adenocarcinomas,TCGA-BG-A0MK,1317,black or african american,Dead,52,19034,primary,1317,TRUE,Stage IIB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+20dcf91a-0529-4e96-99a2-362a41fbe4a4,24,Adenomas and Adenocarcinomas,TCGA-AX-A1CF,'--,white,Alive,69,25300,primary,2337,TRUE,Stage IVB,"Endometrioid adenocarcinoma, NOS",no,G3,1,1,1,1,0,0,1,0
+211b2c52-1ad8-4d33-af0b-69ec1a56c821,29,"Cystic, Mucinous and Serous Neoplasms",TCGA-AP-A3K1,666,white,Dead,56,20594,primary,666,TRUE,Stage IVB,"Serous cystadenocarcinoma, NOS",no,High Grade,1,0,1,1,0,0,1,0
+214a09bb-ce52-4055-b036-065e8cb7ac7d,42,Adenomas and Adenocarcinomas,TCGA-BG-A2L7,'--,white,Alive,68,25091,primary,612,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+21941181-8ed5-4211-867d-516ad09fbe06,2565,Adenomas and Adenocarcinomas,TCGA-B5-A3F9,'--,black or african american,Alive,56,20523,primary,4155,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+21faf1a4-f6d3-4cc6-a49a-04b8541ef598,26,Adenomas and Adenocarcinomas,TCGA-D1-A1O8,120,white,Dead,70,25789,primary,120,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+22618073-4ef0-4c3a-97b9-90ba1caa1d72,8,Adenomas and Adenocarcinomas,TCGA-D1-A16X,'--,white,Alive,54,19799,primary,111,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+22669a01-21d3-404c-ac19-cf0a6c03bb1d,16,"Cystic, Mucinous and Serous Neoplasms",TCGA-PG-A5BC,'--,black or african american,Alive,72,26436,primary,707,TRUE,Stage II,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,1,0,0
+233e947a-d5e2-48e5-a8ce-5da1abb20681,852,Adenomas and Adenocarcinomas,TCGA-B5-A0JV,'--,black or african american,Alive,63,23295,primary,2616,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+23489245-48d7-4f19-8a42-e23b1181412b,27,Adenomas and Adenocarcinomas,TCGA-A5-A0VQ,'--,'--,Alive,62,22995,primary,485,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+23e1d96e-6175-4145-8267-8f0a88f54c4d,65,Adenomas and Adenocarcinomas,TCGA-AJ-A3EL,'--,native hawaiian or other pacific islander,Alive,47,17442,primary,684,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+24118b8f-59fe-482a-aed3-7b1bde1571b7,67,"Cystic, Mucinous and Serous Neoplasms",TCGA-B5-A0K8,'--,white,Alive,71,25992,primary,847,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+24434832-46fc-485a-9ff4-2aa95c3d3936,405,Adenomas and Adenocarcinomas,TCGA-D1-A17S,'--,white,Alive,59,21794,primary,739,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+252500d2-86a3-4090-a57f-1e8c3d44c573,16,Adenomas and Adenocarcinomas,TCGA-AP-A0LQ,'--,white,Alive,59,21629,primary,2457,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+25e7d9d6-7381-40e1-b7ed-1d8c936b7c5c,64,Adenomas and Adenocarcinomas,TCGA-FI-A2F9,'--,white,Alive,79,28886,primary,1803,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+2714af93-e200-4b4a-9df8-7d837b37489f,14,Adenomas and Adenocarcinomas,TCGA-AX-A1C9,'--,white,Alive,73,26903,primary,802,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+282ddc43-922d-4f1f-80c7-6ba2de23b7bc,6,Adenomas and Adenocarcinomas,TCGA-BS-A0U7,935,white,Dead,63,23166,primary,935,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+284174fd-1320-4617-9e99-75bd75df9bf3,0,Adenomas and Adenocarcinomas,TCGA-A5-A0R9,'--,white,Alive,51,18982,primary,749,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+286c112d-7b73-40a1-b23c-99911388fdef,30,"Cystic, Mucinous and Serous Neoplasms",TCGA-A5-A1OF,'--,'--,Alive,47,17308,primary,973,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,High Grade,0,0,1,1,0,0,1,0
+29c8f468-5ac1-4d6c-8376-e36e6d246926,497,Adenomas and Adenocarcinomas,TCGA-B5-A0K0,'--,white,Alive,48,17810,primary,1478,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+2a19051e-3ad1-444a-9d02-f895c26ac02c,0,Adenomas and Adenocarcinomas,TCGA-SL-A6JA,'--,black or african american,Alive,77,28401,primary,7,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+2a2bc155-ca7c-48b2-bb77-ccfd6313710a,20,Adenomas and Adenocarcinomas,TCGA-A5-A3LO,'--,white,Alive,64,23401,primary,776,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+2b60ef45-336c-42e0-aa3f-577069310d1f,39,Adenomas and Adenocarcinomas,TCGA-EY-A2OM,'--,white,Alive,55,20398,primary,694,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+2b76cc9c-c379-43e4-9c3f-56197a3353be,23,Adenomas and Adenocarcinomas,TCGA-BS-A0V8,'--,native hawaiian or other pacific islander,Alive,68,24981,primary,2544,TRUE,Stage IIB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+2b85b84f-e680-4b5c-93ea-3c71567227e8,9,Adenomas and Adenocarcinomas,TCGA-AP-A1E1,'--,white,Alive,74,27072,primary,1395,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+2b865f8c-539f-4cb2-8f08-41709e9511e5,11,"Cystic, Mucinous and Serous Neoplasms",TCGA-BK-A0CC,'--,black or african american,Alive,69,25479,primary,1067,TRUE,Stage IIIC,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,1,1,0
+2c3e95b5-2c63-43c7-baa2-47ef914b25a8,24,Adenomas and Adenocarcinomas,TCGA-EO-A3AS,'--,'--,Alive,86,31450,primary,1046,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+2cf8de9f-b305-4d98-bfd4-33377bf6138f,28,"Cystic, Mucinous and Serous Neoplasms",TCGA-EO-A3B1,'--,'--,Alive,63,23162,primary,820,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+2d166dc0-8890-4b00-ab73-9e2dbb6c530d,49,Adenomas and Adenocarcinomas,TCGA-BK-A56F,'--,black or african american,Alive,75,27523,primary,401,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+2d750c67-24a2-4b12-b4f2-dbd65f2f27f0,53,Adenomas and Adenocarcinomas,TCGA-BG-A0W1,'--,white,Alive,89,32750,primary,122,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+2db0fb62-64ce-457c-9e22-dd05ef59f684,774,Adenomas and Adenocarcinomas,TCGA-A5-A0VP,'--,white,Alive,74,27335,primary,1288,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+2e5cf721-90b1-4470-b430-f055a1297c7f,-731,Adenomas and Adenocarcinomas,TCGA-AX-A0IS,1858,white,Dead,52,19173,primary,1858,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,1,0,0,0
+2f0640bc-598c-4714-9e9b-7e0f2ca4567f,-360,Adenomas and Adenocarcinomas,TCGA-B5-A0K7,'--,white,Alive,64,23429,primary,1933,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+2f4458b6-3caf-4e33-890e-a04722badd1b,28,Adenomas and Adenocarcinomas,TCGA-A5-A0GB,'--,white,Alive,65,23883,primary,997,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+2fe46394-cfc5-44bb-81a9-e438a0126f5b,23,Adenomas and Adenocarcinomas,TCGA-A5-A1OK,'--,white,Alive,63,23179,primary,917,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+3052065a-b8b1-48d3-971d-9d605292249c,-11,Adenomas and Adenocarcinomas,TCGA-AX-A3FW,'--,white,Alive,66,24419,primary,17,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+30b62630-fc6d-4620-874a-1e15fd4f40ea,-53,Adenomas and Adenocarcinomas,TCGA-DF-A2KR,'--,'--,Alive,84,32872,primary,1865,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+30bc72d5-07b5-48d2-b025-bba9bcf2f09f,-27,Adenomas and Adenocarcinomas,TCGA-EO-A22U,'--,white,Alive,83,30557,primary,1407,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+32398808-c46a-41bf-a0a8-e08723b40ea2,246,Adenomas and Adenocarcinomas,TCGA-AX-A2HJ,'--,asian,Alive,35,13112,primary,935,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+32b5d0e4-a242-44d1-ac20-6e5ca2f35b71,7,"Cystic, Mucinous and Serous Neoplasms",TCGA-D1-A2G7,1793,white,Dead,65,23913,primary,1793,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+32e33897-29c8-48f2-b833-98f37204e0e7,8,Adenomas and Adenocarcinomas,TCGA-A5-A0GH,'--,white,Alive,57,21090,primary,2254,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+3348a7aa-f5c3-4fba-9968-68da5cedfd7e,31,Adenomas and Adenocarcinomas,TCGA-AP-A1DO,'--,white,Alive,62,22787,primary,952,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+33efe6c6-9159-48e8-b759-fba9ddbde761,-25,Adenomas and Adenocarcinomas,TCGA-EY-A1GD,'--,black or african american,Alive,51,18638,primary,1639,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+3405c549-7da5-48ee-ba48-177a67bbcc5d,9,Adenomas and Adenocarcinomas,TCGA-BS-A0VI,'--,white,Alive,58,21198,primary,2646,TRUE,Stage IIB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+3424120f-248f-451a-948c-e320c19d1b19,70,Adenomas and Adenocarcinomas,TCGA-EY-A547,'--,black or african american,Alive,75,27686,primary,545,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",yes,G3,0,0,1,1,1,0,0,0
+3789ae3f-286b-42f0-a805-320ad69ea1df,44,"Cystic, Mucinous and Serous Neoplasms",TCGA-B5-A3S1,'--,white,Alive,71,26031,primary,902,TRUE,Stage IIIC1,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+37981e2c-4761-4f82-aaf2-4e6963a71603,40,"Cystic, Mucinous and Serous Neoplasms",TCGA-EY-A212,310,white,Dead,83,30680,primary,310,TRUE,Stage IIIC1,Papillary serous cystadenocarcinoma,yes,G3,0,0,1,1,1,0,0,0
+37bac6ba-be93-42cc-892b-efd0bdb850bd,-35,Adenomas and Adenocarcinomas,TCGA-B5-A1MX,'--,white,Alive,47,17320,primary,1473,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,1,1,1,1,0,0,0
+37d5c1d9-3ff5-44fe-afdc-ff430a0f3510,12,"Cystic, Mucinous and Serous Neoplasms",TCGA-D1-A179,448,white,Dead,76,28037,primary,448,TRUE,Stage IIIC,"Serous cystadenocarcinoma, NOS",no,High Grade,1,0,1,1,1,0,0,0
+38243a33-073a-479b-8cf6-c8847aeb5a48,0,Adenomas and Adenocarcinomas,TCGA-D1-A0ZQ,'--,white,Alive,89,32872,primary,0,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+3878f58e-76ba-4480-a784-88505bd464d0,11,"Cystic, Mucinous and Serous Neoplasms",TCGA-FI-A2EX,'--,white,Alive,58,21489,primary,284,TRUE,Stage IIIA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+38a3ea92-8965-4bda-9dbd-144832975cdd,20,Adenomas and Adenocarcinomas,TCGA-B5-A11E,'--,white,Alive,53,19458,primary,1820,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+38bf8476-fde7-423b-bbaa-15483207de39,35,"Cystic, Mucinous and Serous Neoplasms",TCGA-EO-A3AZ,'--,'--,Alive,80,29234,primary,826,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+38f9fe64-de79-498c-b3ca-1c83af0ed72a,20,"Cystic, Mucinous and Serous Neoplasms",TCGA-AP-A05J,'--,white,Alive,66,24119,primary,1122,TRUE,Stage II,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+39609d3c-f5d3-4bc4-b356-1403c6dd1cb5,41,"Cystic, Mucinous and Serous Neoplasms",TCGA-A5-A0R6,'--,white,Alive,64,23449,primary,1153,TRUE,Stage IIIC1,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,1,1,0
+397b2672-d014-4b57-88dd-17e66ff8be4d,6,Adenomas and Adenocarcinomas,TCGA-BG-A222,'--,white,Alive,49,18220,primary,291,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+3a4a6aff-4720-41fc-a114-85f38610ebb1,56,Adenomas and Adenocarcinomas,TCGA-AX-A05S,413,white,Dead,81,29928,primary,413,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+3abaa1b6-7513-40e0-b79c-b968e788e932,50,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A1CR,'--,white,Alive,70,25812,primary,701,TRUE,Stage IIB,"Serous cystadenocarcinoma, NOS",yes,G3,1,0,1,1,0,0,1,0
+3b218ab7-5c2e-4458-a0ac-5152ec3d2b94,-8,Adenomas and Adenocarcinomas,TCGA-DF-A2KZ,'--,'--,Alive,87,31973,primary,826,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+3b21b47e-a15c-4b10-9702-62a14afdfb8c,19,Adenomas and Adenocarcinomas,TCGA-A5-A0GI,'--,white,Alive,63,23195,primary,2682,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",yes,G2,0,0,1,1,0,0,1,0
+3bce9803-e74c-462e-bd40-8ec337a66f3a,27,"Cystic, Mucinous and Serous Neoplasms",TCGA-KP-A3W1,'--,'--,Alive,76,27902,primary,288,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+3c2a6e30-a507-49f6-8b1f-36eb3aa41e60,1,Adenomas and Adenocarcinomas,TCGA-SJ-A6ZI,'--,black or african american,Alive,64,23653,primary,631,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+3cb83517-78a4-47b8-8b1e-57e765dbdd2e,15,Adenomas and Adenocarcinomas,TCGA-AP-A05P,'--,asian,Alive,54,20017,primary,636,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+3d215e20-9eea-47e0-849e-cff1fee5634d,28,Adenomas and Adenocarcinomas,TCGA-D1-A167,'--,white,Alive,70,25575,primary,478,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+3d9828ae-eb65-4d0a-8d7a-cc09e98b5e99,49,Adenomas and Adenocarcinomas,TCGA-EY-A549,'--,black or african american,Alive,78,28570,primary,605,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",yes,G3,0,0,1,1,1,0,0,0
+3dab68d3-232c-4b4f-81a4-ca8f72d69a43,41,Adenomas and Adenocarcinomas,TCGA-DI-A0WH,'--,white,Alive,64,23692,primary,496,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,1,0,0
+3e240dc0-80b7-41ea-81b3-33ece2753c2b,101,"Cystic, Mucinous and Serous Neoplasms",TCGA-B5-A5OD,'--,black or african american,Alive,67,24775,primary,1038,TRUE,Stage IIIC,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,1,0,0
+3e41cf2f-3de9-44c1-a819-bce693baf67d,35,"Cystic, Mucinous and Serous Neoplasms",TCGA-JU-AAVI,540,black or african american,Dead,61,22289,primary,540,TRUE,Stage IIIC1,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+3e8e34c8-766a-4514-97f4-8000b5350ab9,62,"Cystic, Mucinous and Serous Neoplasms",TCGA-FI-A3PX,'--,white,Alive,57,21063,primary,2384,TRUE,Stage IIIC2,"Serous cystadenocarcinoma, NOS",no,High Grade,0,0,1,1,0,0,1,0
+3ea53b15-37f0-446e-a130-6bb2dee56865,5280,Adenomas and Adenocarcinomas,TCGA-B5-A11F,'--,white,Alive,55,20171,primary,5651,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,1,1,1,1,0,0,0
+3ede5dff-8cf5-43e8-bf4b-e8ad75bf68ee,56,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A1CA,'--,black or african american,Alive,70,25817,primary,974,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+3f305a1f-1020-4ebb-82ab-fd132bcaea02,35,Adenomas and Adenocarcinomas,TCGA-DI-A1C3,'--,white,Alive,38,13885,primary,739,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,1,0,0
+3f96b142-77b6-40a1-8e16-6581b964583b,19,Adenomas and Adenocarcinomas,TCGA-D1-A162,'--,white,Alive,69,25543,primary,1145,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+40287cdc-19dd-4370-a6a0-f324960e1148,34,"Cystic, Mucinous and Serous Neoplasms",TCGA-AJ-A3BF,'--,white,Alive,65,23906,primary,551,TRUE,Stage IIIC2,Papillary serous cystadenocarcinoma,no,G3,1,0,1,1,0,0,1,0
+40a3ed98-3892-449c-b07e-7b7612bd997e,536,Adenomas and Adenocarcinomas,TCGA-B5-A0K1,'--,white,Alive,69,25291,primary,1110,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+40ce24c6-b331-4be2-baf9-2fa7dc855f9b,127,Adenomas and Adenocarcinomas,TCGA-AX-A1C4,'--,white,Alive,52,19209,primary,404,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+40f43483-b504-4ea7-ad24-40682b10caac,11,Adenomas and Adenocarcinomas,TCGA-D1-A16R,'--,white,Alive,39,14465,primary,21,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+4125e3e5-51c0-4577-9935-10cd086fc415,25,Adenomas and Adenocarcinomas,TCGA-EY-A214,'--,white,Alive,66,24136,primary,438,TRUE,Stage IIIC1,"Endometrioid adenocarcinoma, NOS",yes,G3,1,0,1,1,1,0,0,0
+41893e97-7e90-4b03-b738-260f288ade4c,9,Adenomas and Adenocarcinomas,TCGA-D1-A168,'--,white,Alive,67,24586,primary,1098,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+41dcafa0-b196-46dd-ab07-58cb747c9ebc,45,Adenomas and Adenocarcinomas,TCGA-BG-A220,'--,white,Alive,69,25346,primary,434,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",yes,G3,0,0,1,1,0,0,1,0
+41e14a71-95df-46d3-a357-a227a00029cf,30,Adenomas and Adenocarcinomas,TCGA-AJ-A6NU,'--,black or african american,Alive,64,23498,primary,632,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+423da953-30aa-4f7e-96b5-1f6fd24f8874,402,Adenomas and Adenocarcinomas,TCGA-EO-A3L0,'--,white,Alive,76,28003,primary,1554,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+4284a85d-d9b6-40ee-aac4-c2c03554528e,-6,"Cystic, Mucinous and Serous Neoplasms",TCGA-FI-A2EU,'--,'--,Alive,68,24837,primary,2941,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+42ebfec9-6e28-4d72-9b9f-23a836800921,'--,'--,TCGA-FL-A1YV,'--,'--,'--,'--,'--,'--,'--,'--,,'--,'--,'--,0,0,0,0,0,0,0,0
+43476c88-86bc-4a65-9327-f0d24a41c971,53,Adenomas and Adenocarcinomas,TCGA-FI-A2F4,'--,black or african american,Alive,64,23621,primary,2230,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",yes,G3,0,0,1,1,0,0,1,0
+435b57e7-5cd4-486a-b3d4-ccb1ef160d52,-18,Adenomas and Adenocarcinomas,TCGA-E6-A1LX,'--,white,Alive,40,14731,primary,711,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+43714e9a-e9c4-4206-af92-1d00d2a8ae35,17,Adenomas and Adenocarcinomas,TCGA-AP-A0LT,'--,white,Alive,57,21107,primary,1497,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+43e08773-767e-4b81-94e4-8848565c23e9,4,Adenomas and Adenocarcinomas,TCGA-AJ-A8CW,'--,black or african american,Alive,64,23554,primary,4,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+43e228ae-c890-444f-afbd-49385562e33a,40,Adenomas and Adenocarcinomas,TCGA-AP-A0LM,'--,black or african american,Alive,33,12309,primary,825,TRUE,Stage IIIC2,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+4485cc98-5d58-4eb4-8325-7d1a617b6461,50,Adenomas and Adenocarcinomas,TCGA-B5-A0K9,409,white,Dead,88,32289,primary,409,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+44ac7093-a733-4c55-a964-0ba9ec141d2d,19,Adenomas and Adenocarcinomas,TCGA-AP-A1E3,'--,white,Alive,45,16544,primary,847,TRUE,Stage IIIC1,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+4549bff6-6886-4102-a1de-02691b664c52,26,Adenomas and Adenocarcinomas,TCGA-AP-A059,'--,white,Alive,69,25311,primary,1461,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+4557d1fb-9786-4780-bd33-02e9da04b7e3,71,Adenomas and Adenocarcinomas,TCGA-AJ-A8CV,'--,black or african american,Alive,58,21336,primary,1068,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+45d58088-d3f4-4eb0-b75c-bcb98c0981dc,24,Adenomas and Adenocarcinomas,TCGA-A5-A0G9,'--,white,Alive,79,29122,primary,2540,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+45effb44-0b5f-4081-a202-d85969c72f2b,16,Adenomas and Adenocarcinomas,TCGA-AX-A1CK,'--,white,Alive,58,21200,primary,2441,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,1,1,1,0,0,1,0
+46a1fdb9-548d-44d1-ab77-d51d44ac8198,59,"Cystic, Mucinous and Serous Neoplasms",TCGA-FI-A2D2,2352,white,Dead,66,24260,primary,2352,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,1,1,0
+46cd8ded-f8a1-4f8c-a4c2-2d5b51c04f18,'--,Adenomas and Adenocarcinomas,TCGA-D1-A2G6,258,white,Dead,53,19547,primary,258,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,0,0,0,1,0
+46e064cc-933b-444b-9e15-80fadbc53487,-36,Adenomas and Adenocarcinomas,TCGA-DF-A2KS,'--,'--,Alive,69,27590,primary,3318,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,1,0,0
+47c49c54-95f8-42c8-94e4-411280452512,'--,'--,TCGA-FL-A1YH,'--,'--,'--,'--,'--,'--,'--,'--,,'--,'--,'--,0,0,0,0,0,0,0,0
+4806d9a6-e65d-4a82-b422-1b287980a0c6,34,Adenomas and Adenocarcinomas,TCGA-A5-A0G5,'--,black or african american,Alive,73,26827,primary,1126,TRUE,Stage IB,"Clear cell adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+4846cb23-d7e7-47f4-972f-3abe229f7bdb,4,"Cystic, Mucinous and Serous Neoplasms",TCGA-D1-A3JP,'--,white,Alive,61,22538,primary,515,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+48ab48a5-30e7-4f2e-8d0f-9bad7b8dc7db,7,Adenomas and Adenocarcinomas,TCGA-EY-A215,'--,white,Alive,60,22076,primary,574,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",yes,G3,0,0,1,1,1,0,0,0
+490ae247-ee67-48d4-94ed-93df5b9bbefe,19,Adenomas and Adenocarcinomas,TCGA-FI-A2D4,243,white,Dead,44,16163,primary,243,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+49431740-7ed1-4c67-8d66-730629825895,20,Adenomas and Adenocarcinomas,TCGA-AP-A05O,'--,white,Alive,68,24978,primary,384,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+49adc60f-211b-4547-84f6-094257767409,16,Adenomas and Adenocarcinomas,TCGA-BG-A2AD,'--,white,Alive,63,23064,primary,609,TRUE,Stage IIIB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+4abbd258-0f0c-4428-901d-625d47ad363a,6,"Cystic, Mucinous and Serous Neoplasms",TCGA-A5-A0G2,'--,asian,Alive,57,20953,primary,4549,TRUE,Stage IIIB,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+4adc20d7-5af1-4126-9073-c7d7ae465d92,18,"Cystic, Mucinous and Serous Neoplasms",TCGA-PG-A7D5,'--,black or african american,Alive,62,23006,primary,1177,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+4af65655-a3bd-4252-9b2f-2b2c4394f95c,7,Adenomas and Adenocarcinomas,TCGA-AX-A062,'--,white,Alive,53,19643,primary,1399,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+4c2e6abf-02e1-4ef7-a0be-6a6d4069581d,12,Adenomas and Adenocarcinomas,TCGA-EO-A3B0,'--,asian,Alive,43,15954,primary,1412,TRUE,Stage IIIC2,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+4cb4dd07-0ce5-4de7-a0bd-546183949efe,0,Adenomas and Adenocarcinomas,TCGA-AW-A1PO,'--,white,Alive,66,24225,primary,17,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+4d3af3af-24f4-415a-9677-20b0f366a102,1,Adenomas and Adenocarcinomas,TCGA-D1-A0ZZ,'--,white,Alive,80,29420,primary,686,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+4db38349-28d2-4af5-a12f-3d861937b0e0,-9,Adenomas and Adenocarcinomas,TCGA-AX-A1CE,'--,white,Alive,60,21969,primary,1037,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+4db4d048-016a-4186-a519-bfbad237762f,5,Adenomas and Adenocarcinomas,TCGA-D1-A16J,'--,white,Alive,61,22319,primary,910,TRUE,Stage IIB,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,0,0,1,0
+4eb95566-0e73-4260-853e-f7df650667a0,4,Adenomas and Adenocarcinomas,TCGA-BS-A0T9,1428,native hawaiian or other pacific islander,Dead,39,14253,primary,1428,TRUE,Stage IVB,"Endometrioid adenocarcinoma, NOS",no,G3,1,1,1,1,0,0,1,0
+4fd1cb59-6c50-4355-9d37-a341e1f4fad9,16,Adenomas and Adenocarcinomas,TCGA-BG-A0M9,'--,white,Alive,73,26708,primary,2270,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+503e6c30-1b62-4f85-bcb4-e34c009894ab,51,Adenomas and Adenocarcinomas,TCGA-AJ-A3BK,'--,white,Alive,68,24943,primary,1031,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+508bf716-46f9-44dc-8e39-09261dfb073e,-15,Adenomas and Adenocarcinomas,TCGA-EO-A22R,'--,'--,Alive,56,20604,primary,1878,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+50edd97a-f440-40af-b94c-d88eca55d845,'--,'--,TCGA-FL-A3WE,'--,'--,'--,'--,'--,'--,'--,'--,,'--,'--,'--,0,0,0,0,0,0,0,0
+51bd85e2-2c60-4654-bfcb-83dccef8964b,13,"Cystic, Mucinous and Serous Neoplasms",TCGA-BK-A0CA,'--,white,Alive,61,22378,primary,1064,TRUE,Stage IIIC,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+51de7e94-e2fa-420b-9aa2-3637d17fc6ea,12,Adenomas and Adenocarcinomas,TCGA-AP-A1DK,'--,white,Alive,53,19509,primary,2767,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+525fb4fc-2167-4506-b4fa-fb896bf64cd0,68,Adenomas and Adenocarcinomas,TCGA-AJ-A3BI,'--,white,Alive,67,24623,primary,575,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+5262d82d-fc43-41f4-9b23-c9ac6f237ff0,0,Adenomas and Adenocarcinomas,TCGA-AX-A3FZ,'--,white,Alive,33,12331,primary,6,TRUE,Stage IIIB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+52fef8a9-6860-48bd-b992-a56ccad1243c,56,Adenomas and Adenocarcinomas,TCGA-AX-A2HH,'--,white,Alive,60,21924,primary,540,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+53245616-e095-4616-89bb-6062669122da,61,Adenomas and Adenocarcinomas,TCGA-DI-A1BU,'--,white,Alive,55,20114,primary,1195,TRUE,Stage IIB,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,1,0,0
+53707bb3-426a-43cb-830f-3eeed930295f,19,"Cystic, Mucinous and Serous Neoplasms",TCGA-A5-A0G1,3251,white,Dead,67,24477,primary,3251,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+53e8e07e-18f9-4c9b-9783-a5b67ceddcf7,72,Adenomas and Adenocarcinomas,TCGA-AX-A2HC,'--,black or african american,Alive,53,19485,primary,1044,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+5428c4b2-37c2-4f8c-a474-39fe1aacb26b,17,Adenomas and Adenocarcinomas,TCGA-BS-A0UL,'--,native hawaiian or other pacific islander,Alive,54,19982,primary,2481,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+545ba049-b7c1-4b46-9ec2-9331dccd6c60,'--,'--,TCGA-FL-A1YQ,'--,'--,'--,'--,'--,'--,'--,'--,,'--,'--,'--,0,0,0,0,0,0,0,0
+548ec160-4183-459f-8393-f4b4672a3251,5,"Cystic, Mucinous and Serous Neoplasms",TCGA-D1-A16I,350,white,Dead,62,22836,primary,350,TRUE,Stage IC,"Serous cystadenocarcinoma, NOS",no,High Grade,0,0,1,1,1,0,0,0
+54ac877a-52ff-450c-9df9-b7cd3fc8e2e2,15,"Cystic, Mucinous and Serous Neoplasms",TCGA-QS-A8F1,135,black or african american,Dead,85,31386,primary,135,TRUE,Stage IIIA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+553f0ccd-4e6f-4ae2-9b39-97529eb3d826,121,Adenomas and Adenocarcinomas,TCGA-A5-A0GX,'--,white,Alive,53,19625,primary,2088,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+5693302a-4548-4c0b-8725-0cb7c67bc4f8,29,Adenomas and Adenocarcinomas,TCGA-D1-A16D,'--,white,Alive,49,17933,primary,1141,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,0,0,1,0
+56bdb68c-a647-4aba-94ac-9cd52bb5344a,10,Adenomas and Adenocarcinomas,TCGA-EY-A548,'--,black or african american,Alive,83,30544,primary,430,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+585a1f31-3804-43ca-81e9-4e571fe03642,14,Adenomas and Adenocarcinomas,TCGA-AP-A056,'--,white,Alive,64,23707,primary,2618,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+586d7b3f-67a8-4a22-862f-cf50de3c1598,747,Adenomas and Adenocarcinomas,TCGA-B5-A0JX,'--,white,Alive,62,22834,primary,1787,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+59cebae6-632d-4632-b695-c48ae46b2e67,-26,Adenomas and Adenocarcinomas,TCGA-DF-A2KV,'--,'--,Alive,55,20160,primary,2717,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+59e9029a-8ddd-4447-b35a-72bc39f82a30,12,Adenomas and Adenocarcinomas,TCGA-BK-A0CB,'--,white,Alive,60,21930,primary,1092,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,0,0,1,0
+5a61ef1e-61eb-4794-9429-2bddbbe7d09d,'--,'--,TCGA-FL-A1YL,'--,'--,'--,'--,'--,'--,'--,'--,,'--,'--,'--,0,0,0,0,0,0,0,0
+5b6b9d0f-787c-4ae9-afd4-de7ce6c57a42,35,Adenomas and Adenocarcinomas,TCGA-A5-A0GW,'--,asian,Alive,46,17092,primary,706,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+5bf97d66-cdc6-47d0-ac74-5c6280b31072,-27,Adenomas and Adenocarcinomas,TCGA-DF-A2KY,'--,'--,Alive,49,18086,primary,332,TRUE,Stage IVA,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+5c22c8d6-5805-455c-8e1c-e6b8006738e4,22,Adenomas and Adenocarcinomas,TCGA-D1-A17K,'--,white,Alive,74,27283,primary,854,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+5c3f826c-b447-457d-a90e-715bad3c7118,19,"Cystic, Mucinous and Serous Neoplasms",TCGA-A5-A1OG,973,asian,Dead,65,23956,primary,973,TRUE,Stage IIIC2,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+5cba9441-6812-49c0-a0f6-7928ed4e5b81,390,Adenomas and Adenocarcinomas,TCGA-B5-A0K6,'--,white,Alive,58,21515,primary,1953,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+5d2f1a0f-a01b-48c2-b749-1ca710aa2bb4,36,"Cystic, Mucinous and Serous Neoplasms",TCGA-B5-A1MY,361,black or african american,Dead,62,22805,primary,361,TRUE,Stage IIIC2,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+5d39e9a2-1073-4db2-b02e-db05d59563a7,33,"Cystic, Mucinous and Serous Neoplasms",TCGA-AJ-A23N,439,white,Dead,70,25772,primary,439,TRUE,Stage IIIA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,1,0,0
+5dd28537-d24f-4a6d-a454-6f64cf37e16a,11,Adenomas and Adenocarcinomas,TCGA-EY-A1GU,997,black or african american,Dead,66,24304,primary,997,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+5dfdfcfc-72cc-4e33-aa3f-0d744eb94330,10,Adenomas and Adenocarcinomas,TCGA-AP-A0LV,'--,white,Alive,39,14556,primary,763,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+5e3b981e-73fe-4cc9-8c89-b420e8e2f426,17,Adenomas and Adenocarcinomas,TCGA-A5-A0GV,'--,white,Alive,67,24540,primary,1643,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+5edaed6d-9914-4df2-a843-d6009c36cbcc,40,Adenomas and Adenocarcinomas,TCGA-PG-A916,'--,black or african american,Alive,70,25617,primary,522,TRUE,Stage I,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+5f2f2e7a-8aec-4011-b261-0c5bc68da840,26,"Cystic, Mucinous and Serous Neoplasms",TCGA-EO-A1Y5,'--,'--,Alive,63,23251,primary,332,TRUE,Stage IIIC2,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+5f764ac1-3de7-4cfd-a77a-d21baa418834,49,"Cystic, Mucinous and Serous Neoplasms",TCGA-EO-A3KW,'--,'--,Alive,72,26492,primary,497,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+5ffa2ec6-2d94-4b09-8fb9-3591cf38fa4f,15,Adenomas and Adenocarcinomas,TCGA-BS-A0U9,'--,native hawaiian or other pacific islander,Alive,59,21580,primary,2825,TRUE,Stage IIA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+601734da-2d11-4745-a260-0965f58aadea,8,"Cystic, Mucinous and Serous Neoplasms",TCGA-FI-A2F8,'--,white,Alive,64,23649,primary,933,TRUE,Stage II,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+60c65e5e-57a4-4f15-8b95-30bd2dbd9010,17,Adenomas and Adenocarcinomas,TCGA-D1-A16F,'--,white,Alive,60,22242,primary,80,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+60e307dd-e11e-40ba-93c1-7e8a1f669f60,18,"Cystic, Mucinous and Serous Neoplasms",TCGA-FI-A3PV,1249,black or african american,Dead,68,24898,primary,1249,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,High Grade,0,0,1,1,0,0,1,0
+60fcf50a-8598-475d-8dd0-6b3044661233,19,Adenomas and Adenocarcinomas,TCGA-AP-A0LN,'--,black or african american,Alive,56,20704,primary,2510,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+615ea37d-6302-4d68-b253-d24efd947c3e,14,Adenomas and Adenocarcinomas,TCGA-EY-A1GF,'--,black or african american,Alive,75,27450,primary,826,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+6164588a-d03a-46fc-82fb-a32cbaa54cac,11,Adenomas and Adenocarcinomas,TCGA-BG-A0VV,'--,white,Alive,53,19581,primary,1553,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+61935424-44d0-4211-81c1-c925e436eac5,431,"Epithelial Neoplasms, NOS",TCGA-B5-A0JY,'--,white,Alive,50,18475,primary,2107,TRUE,Stage IIIC1,"Carcinoma, undifferentiated, NOS",no,G3,1,0,1,1,0,0,1,0
+62ae3bb1-8102-4693-aee6-4d8d0d2bc515,26,Adenomas and Adenocarcinomas,TCGA-BG-A18B,'--,white,Alive,53,19550,primary,470,TRUE,Stage I,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+62d71839-4fba-42e9-9929-8d937f0fe287,13,Adenomas and Adenocarcinomas,TCGA-BG-A0VW,'--,white,Alive,77,28383,primary,1582,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+62df1bd8-23a8-4e52-a483-6895b2f02494,16,"Cystic, Mucinous and Serous Neoplasms",TCGA-KP-A3W4,554,white,Dead,63,23200,primary,554,TRUE,Stage IIIA,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+63170b0e-78cf-45d9-af9d-ce986ac66991,-16,Adenomas and Adenocarcinomas,TCGA-EO-A22T,'--,asian,Alive,56,20608,primary,2035,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+633e6994-3e8b-4c0b-9b79-06cf4ab6f9bc,12,Adenomas and Adenocarcinomas,TCGA-AX-A064,'--,white,Alive,81,29625,primary,1517,TRUE,Stage IIA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+6397c4a1-0a29-4c2c-b8cb-ce73af93dd0b,33,Adenomas and Adenocarcinomas,TCGA-D1-A17U,'--,white,Alive,53,19544,primary,697,TRUE,Stage IIIC2,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,0,0,1,0
+6524a6d3-a9f0-4a46-ac0b-7beb0cd1b915,2199,"Cystic, Mucinous and Serous Neoplasms",TCGA-DI-A2QY,3349,white,Dead,64,23398,primary,3349,TRUE,Stage IIB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+65ef7168-69c6-4910-a141-d7558d0027c9,912,Adenomas and Adenocarcinomas,TCGA-B5-A0JU,'--,black or african american,Alive,57,21159,primary,1802,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",'--,G2,0,0,1,1,1,0,0,0
+6696cf88-3c43-482c-aabb-f1ea5cf565aa,81,Adenomas and Adenocarcinomas,TCGA-QS-A5YR,'--,black or african american,Alive,61,22372,primary,719,TRUE,Stage IIIB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+66e305ca-8a16-44f0-b837-85e529b7ad55,23,Adenomas and Adenocarcinomas,TCGA-BG-A18C,'--,white,Alive,72,26602,primary,470,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+672de064-3378-4004-a3ea-f79885e10d78,45,"Cystic, Mucinous and Serous Neoplasms",TCGA-AJ-A3EJ,50,white,Dead,74,27317,primary,50,TRUE,Stage IIIC2,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,1,0,0
+67ccb182-3021-4621-bffb-6565574dbc58,17,Adenomas and Adenocarcinomas,TCGA-D1-A17L,'--,white,Alive,81,29899,primary,802,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+68181bc9-aa8b-44ec-8601-564b30ea0561,14,Adenomas and Adenocarcinomas,TCGA-BG-A0LW,'--,white,Alive,47,17369,primary,566,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+69fc74bc-e961-40e2-9169-d7b51658eb10,46,"Cystic, Mucinous and Serous Neoplasms",TCGA-AJ-A3QS,'--,black or african american,Alive,57,21162,primary,513,TRUE,Stage IIIA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,1,0,0
+6b2e93b9-8271-4205-842e-0b7292b8115a,'--,Adenomas and Adenocarcinomas,TCGA-EY-A1G7,189,white,Dead,86,31603,primary,189,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",yes,G2,0,0,1,1,1,0,0,0
+6b35a816-f9c4-44d4-9824-5dee4804b80d,14,"Cystic, Mucinous and Serous Neoplasms",TCGA-KP-A3VZ,'--,white,Alive,69,25366,primary,722,TRUE,Stage IV,"Serous cystadenocarcinoma, NOS",yes,High Grade,0,0,1,0,0,0,1,0
+6c2232b2-80ce-4156-a0b4-ffa411b0963e,82,Adenomas and Adenocarcinomas,TCGA-AJ-A8CT,'--,black or african american,Alive,58,21515,primary,82,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+6c2a0f37-49cd-4fd0-b126-58b35f9121df,20,Adenomas and Adenocarcinomas,TCGA-BG-A0VX,'--,white,Alive,58,21425,primary,1043,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+6c526c42-2fb2-4dfa-8a3d-5651dd600ac7,11,Adenomas and Adenocarcinomas,TCGA-D1-A17H,'--,white,Alive,61,22389,primary,852,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+6d061ca9-ba7e-4b82-ab3c-34e33f244a54,7,Adenomas and Adenocarcinomas,TCGA-D1-A176,'--,white,Alive,67,24521,primary,917,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+6d3fdb58-fdc0-4937-ad38-3a455225ea51,12,Adenomas and Adenocarcinomas,TCGA-AX-A3G8,'--,white,Alive,76,27899,primary,36,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+6f45a2e9-1ca5-438c-b06f-1cd8eb845465,0,Adenomas and Adenocarcinomas,TCGA-AX-A3FX,1333,white,Dead,69,25260,primary,1333,TRUE,Stage IIB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+6f4f0cdd-8387-45d0-a9e8-efce6260159d,22,Adenomas and Adenocarcinomas,TCGA-D1-A17C,'--,white,Alive,78,28571,primary,30,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+6f661f0d-f08b-486e-8bd7-4306e1593eb9,2,"Cystic, Mucinous and Serous Neoplasms",TCGA-D1-A2G0,'--,white,Alive,70,25573,primary,1484,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+6fa99ae9-1d72-455e-938e-0ec0d240f5a3,-20,Adenomas and Adenocarcinomas,TCGA-AX-A2HK,90,white,Dead,77,28316,primary,90,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+70b4b353-10d4-49d0-bcc1-855616d8c8cc,60,Adenomas and Adenocarcinomas,TCGA-AJ-A23O,312,white,Dead,69,25433,primary,312,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,1,0,0
+70cdb758-26c9-4c11-a495-0c31cbc84949,10,Adenomas and Adenocarcinomas,TCGA-EY-A1GR,'--,black or african american,Alive,67,24784,primary,536,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+7186180a-688a-4fcc-9a67-166eff032e4b,1,"Cystic, Mucinous and Serous Neoplasms",TCGA-AJ-A3NH,1,white,Dead,89,32871,primary,1,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",yes,G3,1,0,1,1,1,0,0,0
+71ed2681-79bb-4ffb-985c-6d3cf18e9168,47,Adenomas and Adenocarcinomas,TCGA-EO-A1Y7,'--,'--,Alive,65,24085,primary,1495,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,1,0,0
+71ed7d6d-8c44-4d37-a04a-7a78df21e514,-13,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A3G7,'--,white,Alive,71,26187,primary,9,TRUE,Stage IVB,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+71fed998-8fac-4e6b-b38a-22c83e05e958,17,Adenomas and Adenocarcinomas,TCGA-A5-A0GA,543,white,Dead,67,24659,primary,543,TRUE,Stage IIIC2,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+734ef97f-807c-480e-8df9-feaf041032d2,13,Adenomas and Adenocarcinomas,TCGA-BG-A0MO,'--,white,Alive,63,23287,primary,1309,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+73a0dd38-115d-48fb-b683-04aa5d612f2a,'--,Adenomas and Adenocarcinomas,TCGA-D1-A17R,339,white,Dead,58,21382,primary,339,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+73e5310d-ba8c-4cbc-aa4f-e06206f898f4,20,Adenomas and Adenocarcinomas,TCGA-BG-A0M4,'--,white,Alive,60,22090,primary,2167,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+7427f9e8-1140-45fd-9613-78b72b13a7ba,13,Adenomas and Adenocarcinomas,TCGA-D1-A103,'--,white,Alive,87,31841,primary,669,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+748e38b1-2ead-4a0a-8881-d640617b856b,20,Adenomas and Adenocarcinomas,TCGA-AP-A0LF,'--,white,Alive,82,30027,primary,2845,TRUE,Stage IVB,"Endometrioid adenocarcinoma, NOS",yes,G3,0,0,1,1,0,0,1,0
+755d7ab7-4563-408a-9135-f852048af975,28,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A1C7,'--,white,Alive,77,28198,primary,1054,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+75783dbe-e18c-4535-b9eb-2affd320e098,13,Adenomas and Adenocarcinomas,TCGA-EY-A54A,'--,black or african american,Alive,67,24822,primary,447,TRUE,Stage IIIC2,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+75fb484d-cd12-4cf0-a99d-faf27aead118,13,Adenomas and Adenocarcinomas,TCGA-EY-A1GP,'--,black or african american,Alive,54,20011,primary,573,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+76f98002-e8df-4dfa-926e-8bb2d5114966,59,Adenomas and Adenocarcinomas,TCGA-AJ-A3OJ,'--,white,Alive,54,19826,primary,467,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+77ed36ad-222f-4693-8668-0ecf9073d6e8,23,Adenomas and Adenocarcinomas,TCGA-AJ-A3BG,'--,white,Alive,65,23861,primary,550,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",yes,G3,1,0,1,1,0,0,1,0
+787c3e2f-a708-4985-a5b1-b2383c7bfc52,9,"Cystic, Mucinous and Serous Neoplasms",TCGA-FI-A2EY,880,white,Dead,63,23042,primary,880,TRUE,Stage IIIA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+787d313f-9255-4b93-8ac2-0aa8febb7909,37,Adenomas and Adenocarcinomas,TCGA-FI-A2D6,767,white,Dead,74,27060,primary,767,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+7890628d-7120-4dbc-85ae-1f895b6660c2,-1,Adenomas and Adenocarcinomas,TCGA-D1-A3DG,130,white,Dead,81,29771,primary,130,TRUE,Stage IVB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+79ecc142-8f6e-4260-a7ce-c8e2a6212c35,392,Adenomas and Adenocarcinomas,TCGA-B5-A0K3,830,black or african american,Dead,62,22664,primary,830,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+7a077812-f6ee-4820-a084-1a52c7ef062c,27,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A2HF,'--,white,Alive,67,24689,primary,848,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",yes,G3,1,0,1,1,0,0,1,0
+7a2cf5ce-8317-4fff-946e-b9937afab815,32,Adenomas and Adenocarcinomas,TCGA-AX-A2HG,'--,white,Alive,56,20771,primary,1163,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+7adaf608-19a5-4184-8b79-bbc6f9cf24ae,-40,Adenomas and Adenocarcinomas,TCGA-DF-A2L0,788,'--,Dead,60,22723,primary,788,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+7b7d2d2b-abe6-4f32-add0-3715096995d1,33,Adenomas and Adenocarcinomas,TCGA-BS-A0TC,'--,asian,Alive,69,25560,primary,2602,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+7b9947d5-e86b-4006-8890-ea5209584a88,7,"Cystic, Mucinous and Serous Neoplasms",TCGA-AP-A0L9,'--,white,Alive,71,26185,primary,3815,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+7d22ff96-9249-46b3-9cfa-e40dc4ecebd6,-3,Adenomas and Adenocarcinomas,TCGA-D1-A3DH,'--,white,Alive,71,25935,primary,573,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+7d8e6965-51ea-4864-968e-5cecfb7da48a,'--,'--,TCGA-FL-A1YG,'--,'--,'--,'--,'--,'--,'--,'--,,'--,'--,'--,0,0,0,0,0,0,0,0
+7dce4215-01f6-43e9-9378-9e22c26c23a2,12,"Cystic, Mucinous and Serous Neoplasms",TCGA-AP-A0LH,1106,white,Dead,60,22169,primary,1106,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+7ddeddd1-b2ad-425f-94a2-9c476b959f2a,15,Adenomas and Adenocarcinomas,TCGA-D1-A17D,'--,white,Alive,58,21441,primary,926,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+7e64ea6c-a3db-48eb-91be-131361510a92,-1,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A0IU,'--,black or african american,Alive,79,29063,primary,1087,TRUE,Stage IIIC,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+7f4f3aed-69af-421e-817b-b258dcc0bac5,3,Adenomas and Adenocarcinomas,TCGA-D1-A16Q,'--,white,Alive,54,19873,primary,324,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+7f91a0c5-d639-48ea-b3f7-b6f385e047ed,57,Adenomas and Adenocarcinomas,TCGA-AJ-A3OL,449,white,Dead,55,20115,primary,449,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,1,0,0
+80105773-372e-4552-a10b-5df188b15b16,5,Adenomas and Adenocarcinomas,TCGA-D1-A0ZS,'--,white,Alive,54,19821,primary,148,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+82c51af5-4ba2-48fe-b5e2-a0f1c9d68f34,27,Adenomas and Adenocarcinomas,TCGA-A5-A0GR,'--,black or african american,Alive,69,25353,primary,1120,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+838fcc2b-48b4-49dd-b8fc-ff27bbd16b17,32,Adenomas and Adenocarcinomas,TCGA-B5-A1MZ,'--,white,Alive,54,19955,primary,1598,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,1,0,0
+83f2cd11-0dd7-47a6-b4b3-8212faac94bb,0,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A3G4,'--,native hawaiian or other pacific islander,Alive,60,22099,primary,9,TRUE,Stage IIIC,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+840ff11f-f991-4e1b-861b-98d236d573d3,20,"Cystic, Mucinous and Serous Neoplasms",TCGA-A5-A2K2,'--,white,Alive,77,28456,primary,3595,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+8432401d-799f-4f2f-b536-e79e1e8be064,33,"Cystic, Mucinous and Serous Neoplasms",TCGA-A5-A0G3,'--,black or african american,Alive,61,22421,primary,1428,TRUE,Stage IIIC2,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+84b96f93-6273-4101-a259-9602000ae491,42,Adenomas and Adenocarcinomas,TCGA-AP-A1E0,'--,white,Alive,40,14653,primary,1832,TRUE,Stage IIIC2,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,1,0,0,0
+8636db4d-a67b-4d8a-b02f-15fce553cf17,14,Adenomas and Adenocarcinomas,TCGA-EY-A1GQ,'--,white,Alive,76,27905,primary,544,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",yes,G3,1,0,1,1,1,0,0,0
+8751429b-4a11-451e-b978-dc9e9db0eb36,33,Adenomas and Adenocarcinomas,TCGA-5S-A9Q8,'--,black or african american,Alive,51,18785,primary,313,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,0,0,1,0
+87e44856-eb9a-475f-96b1-047b7f77b0da,27,Adenomas and Adenocarcinomas,TCGA-AX-A05W,'--,white,Alive,60,22200,primary,2450,TRUE,Stage IIB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+884fd57d-bd8e-40e7-82f6-0ba1c71101a9,0,Adenomas and Adenocarcinomas,TCGA-BG-A0MC,'--,white,Alive,74,27136,primary,1263,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+8a0a58a0-5c12-4366-af43-4fd25f8ff454,28,Adenomas and Adenocarcinomas,TCGA-AJ-A3IA,'--,white,Alive,77,28470,primary,633,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",yes,G3,0,0,1,1,1,0,0,0
+8a235d4d-5ee1-4d6b-839e-e71cadcd8c39,-1,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A2IO,'--,white,Alive,83,30539,primary,1975,TRUE,Stage IIA,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+8a67ed86-156f-4b45-b460-000fe33da26b,0,Adenomas and Adenocarcinomas,TCGA-A5-AB3J,'--,black or african american,Alive,52,19020,primary,512,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,0,0,1,0
+8b19c8ac-68e6-4dc8-aec9-1556e62ca20f,-3,Adenomas and Adenocarcinomas,TCGA-D1-A16V,120,white,Dead,78,28635,primary,120,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+8b4cf993-1e16-4009-a37f-a629528b7d7e,0,Adenomas and Adenocarcinomas,TCGA-AX-A3FT,'--,white,Alive,64,23543,primary,6,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+8bb89c0f-0f04-485e-8e08-801042dfcba9,11,"Cystic, Mucinous and Serous Neoplasms",TCGA-EY-A3QX,989,white,Dead,64,23663,primary,989,TRUE,Stage IVB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,1,0,0
+8bdd4e0e-5bec-43f2-b9fa-d6e94a72fe05,8,Adenomas and Adenocarcinomas,TCGA-BG-A0M3,'--,white,Alive,74,27183,primary,1071,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+8bf0b156-6eb4-45e8-9cbb-0979efbea898,14,Adenomas and Adenocarcinomas,TCGA-BG-A0M0,'--,white,Alive,66,24427,primary,588,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+8c6b9b54-58eb-4d5f-b8a9-8007163db457,-1,Adenomas and Adenocarcinomas,TCGA-AX-A3FS,'--,white,Alive,82,30102,primary,7,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+8d9e4917-334b-4c76-aee1-1e22be772db0,33,Adenomas and Adenocarcinomas,TCGA-BK-A139,943,white,Dead,74,27077,primary,943,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,1,0,0
+8e225f5f-49c1-4a39-a8b5-41fea6a79819,-1,Adenomas and Adenocarcinomas,TCGA-EO-A3AU,'--,'--,Alive,72,26406,primary,1543,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,1,0,0
+8e7792b3-2b6c-47ac-acbe-3da7462a8321,45,Adenomas and Adenocarcinomas,TCGA-BK-A6W4,'--,black or african american,Alive,62,22766,primary,300,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,1,0,0
+8e8f19bd-dbaa-4738-bad2-207f634cd63d,1,Adenomas and Adenocarcinomas,TCGA-QS-A744,'--,black or african american,Alive,86,31520,primary,451,TRUE,Stage IIIB,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,1,0,0,0
+8f2d3495-8ce7-4f6e-a41d-8cfae5750937,-19,Adenomas and Adenocarcinomas,TCGA-EO-A22S,'--,'--,Alive,58,21328,primary,1872,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+8f508b78-cdc6-4a3d-b86e-520746d78653,141,Adenomas and Adenocarcinomas,TCGA-D1-A16O,'--,white,Alive,44,16114,primary,1023,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+9002fc6c-26de-4b8f-8985-a4814cd3daf7,49,Adenomas and Adenocarcinomas,TCGA-AJ-A2QL,'--,white,Alive,60,22057,primary,602,TRUE,Stage IIIC1,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+905291b0-f077-48f7-9c14-5cfa9d8a3e6e,16,Adenomas and Adenocarcinomas,TCGA-AX-A06D,373,white,Dead,82,30024,primary,373,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",yes,G2,1,0,1,1,1,0,0,1
+916ccf0d-02ef-4ccb-824b-6b4294095a08,-1,Adenomas and Adenocarcinomas,TCGA-D1-A0ZN,'--,white,Alive,60,22026,primary,512,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+9205c164-7975-421a-90c3-edfe8def595c,-6,"Cystic, Mucinous and Serous Neoplasms",TCGA-E6-A1LZ,'--,black or african american,Alive,76,28054,primary,2406,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+92a2cae3-b8ee-4ebb-ac5c-01e58749448f,70,Adenomas and Adenocarcinomas,TCGA-BK-A0C9,'--,white,Alive,57,20876,primary,1092,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+9370e189-8fb7-4bfa-8ef9-2220f3557188,-4,Adenomas and Adenocarcinomas,TCGA-EY-A1GO,'--,white,Alive,65,23853,primary,586,TRUE,Stage IIIC1,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,1,0,0,0
+93d6df4a-aea2-48c2-8b6a-4b3eca0bf26f,58,"Cystic, Mucinous and Serous Neoplasms",TCGA-FI-A2EW,'--,black or african american,Alive,71,26267,primary,1795,TRUE,Stage IIB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+944a102f-3475-45aa-9e30-4b92d1449f00,13,"Cystic, Mucinous and Serous Neoplasms",TCGA-DI-A1NN,'--,white,Alive,63,23026,primary,1076,TRUE,Stage IIIC,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+94817e78-78f5-4556-9394-610df65605e2,11,Adenomas and Adenocarcinomas,TCGA-A5-A0GJ,'--,white,Alive,44,16421,primary,2000,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,0,0,1,0
+957ac10a-7365-47b1-bbed-47e5d42fbfdf,131,Adenomas and Adenocarcinomas,TCGA-BG-A0YU,'--,white,Alive,37,13644,primary,451,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+9583c10b-b21a-4863-98fa-61e735e64ea5,30,Adenomas and Adenocarcinomas,TCGA-2E-A9G8,'--,black or african american,Alive,59,'--,primary,1249,TRUE,Stage III,"Endometrioid adenocarcinoma, NOS",yes,G2,1,0,1,1,1,0,0,0
+95e6d327-9ab7-45de-9527-f5634b3995c3,20,Adenomas and Adenocarcinomas,TCGA-AX-A06B,'--,white,Alive,72,26348,primary,2058,TRUE,Stage IIA,"Endometrioid adenocarcinoma, NOS",yes,G3,0,0,1,1,0,0,1,0
+95eefb47-3f96-4a6d-8773-4d22843f0a6a,-73,Adenomas and Adenocarcinomas,TCGA-DF-A2KU,'--,'--,Alive,'--,'--,primary,3067,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+972db411-9744-46f0-89c7-efe14135f1b4,23,Adenomas and Adenocarcinomas,TCGA-EY-A1GK,'--,white,Alive,74,27127,primary,693,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",yes,G3,0,0,1,1,1,0,0,0
+9731e0b3-c62d-43cb-8ae7-8f973d69ab19,21,Adenomas and Adenocarcinomas,TCGA-BG-A0M2,'--,white,Alive,62,22822,primary,637,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+976bb47a-d999-4e24-ad08-452fea73c846,27,Adenomas and Adenocarcinomas,TCGA-A5-A0GM,'--,white,Alive,53,19452,primary,1841,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+9a599f57-0e8d-4e1f-a181-791f5fdeadb7,1,Adenomas and Adenocarcinomas,TCGA-D1-A169,'--,white,Alive,63,23238,primary,1135,TRUE,Stage IV,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,1,0,0,0
+9aa8c2b4-db32-4899-bf0c-d578cb175e90,67,"Cystic, Mucinous and Serous Neoplasms",TCGA-AP-A0L8,1484,black or african american,Dead,70,25733,primary,1484,TRUE,Stage IIIC2,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+9bc2f33f-3067-4000-bc8a-1c5bb671d101,13,Adenomas and Adenocarcinomas,TCGA-D1-A165,'--,white,Alive,64,23526,primary,20,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+9bce44a2-dcee-4d1a-a522-c2bcb9a8e025,160,"Cystic, Mucinous and Serous Neoplasms",TCGA-A5-A1OH,'--,white,Alive,86,31451,primary,1105,TRUE,Stage IIIA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+9becf65d-01f2-4e84-a256-106002e22526,47,"Cystic, Mucinous and Serous Neoplasms",TCGA-A5-A3LP,'--,white,Alive,74,27131,primary,455,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+9cc1b44a-ac26-408d-b12b-084e982ccadf,-12,Adenomas and Adenocarcinomas,TCGA-AX-A3G1,624,white,Dead,84,31037,primary,624,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+9cde90c8-2be0-4328-a032-ff1dc19e66fd,40,Adenomas and Adenocarcinomas,TCGA-BG-A0MG,'--,white,Alive,73,26957,primary,1477,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",'--,G1,0,0,1,1,0,0,1,0
+9d84dff8-6c19-4881-93c6-56c98a3049b5,62,Adenomas and Adenocarcinomas,TCGA-AX-A2HA,'--,white,Alive,35,13142,primary,2475,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+9da5ecd0-a287-4e67-84b6-af9077a98009,13,Adenomas and Adenocarcinomas,TCGA-D1-A101,'--,white,Alive,60,22078,primary,53,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+9ee944ef-4293-4228-b750-cc34ab388eb3,52,"Cystic, Mucinous and Serous Neoplasms",TCGA-AJ-A3TW,'--,white,Alive,78,28559,primary,513,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,1,0,0
+9f92080f-f6e0-42db-a02b-b3069664f6d0,17,"Cystic, Mucinous and Serous Neoplasms",TCGA-BG-A3PP,'--,white,Alive,82,30227,primary,681,TRUE,Stage II,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+9fcbef9e-2cca-4033-b574-daab2a42198b,41,"Cystic, Mucinous and Serous Neoplasms",TCGA-AJ-A3NF,'--,white,Alive,60,22210,primary,645,TRUE,Stage IIIC,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+a033fbea-7cd0-4e65-94c4-b54f2f80b895,-6,Adenomas and Adenocarcinomas,TCGA-AX-A3FV,'--,white,Alive,62,22752,primary,-6,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+a081da6f-51f3-4555-a6b8-736f8c6cda39,17,Adenomas and Adenocarcinomas,TCGA-AP-A0LO,1016,white,Dead,45,16493,primary,1016,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+a12df3d7-c560-4e7d-a482-1025a6e5b465,22,Adenomas and Adenocarcinomas,TCGA-EY-A72D,'--,black or african american,Alive,87,31818,primary,179,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",yes,G3,0,0,1,1,0,0,1,0
+a1780432-860e-4bff-9b66-a1e25c0076fe,-8,Adenomas and Adenocarcinomas,TCGA-AX-A2H7,772,white,Dead,87,32100,primary,772,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+a1a0177d-e670-4f2f-a99d-6f668a2f9e8a,53,Adenomas and Adenocarcinomas,TCGA-BS-A0UA,'--,white,Alive,68,24872,primary,3495,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+a28beb70-d309-45b8-a2ba-40558f3c8f4f,13,Adenomas and Adenocarcinomas,TCGA-EY-A1GE,'--,white,Alive,67,24667,primary,741,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+a2a2dbda-d10c-49c4-86a8-61baf6160cda,25,Adenomas and Adenocarcinomas,TCGA-A5-A0GN,'--,white,Alive,65,24020,primary,1841,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+a31554af-d77a-4862-8aed-4581fb2bd877,0,Adenomas and Adenocarcinomas,TCGA-BG-A3EW,'--,white,Alive,62,22705,primary,344,TRUE,Stage III,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+a3e728ce-0874-4f4b-a83d-8c679f4bd938,220,Adenomas and Adenocarcinomas,TCGA-A5-A7WJ,'--,black or african american,Alive,64,23723,primary,341,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+a438dce7-6592-4ea6-a401-57f5a8fe8ba6,11,Adenomas and Adenocarcinomas,TCGA-D1-A163,'--,white,Alive,50,18604,primary,991,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,0,0,1,0
+a45a2343-f425-4e62-9049-7782733b6234,8,Adenomas and Adenocarcinomas,TCGA-EY-A1GH,'--,white,Alive,70,25802,primary,710,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+a587e62e-430e-4f1b-82b7-6fbe856fdaf1,0,Adenomas and Adenocarcinomas,TCGA-A5-A0GE,'--,asian,Alive,38,14170,primary,3205,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+a59a79fd-433d-44dc-9601-4c63d599ab28,42,Adenomas and Adenocarcinomas,TCGA-B5-A11O,'--,white,Alive,62,22720,primary,2609,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,1,0,0
+a633d316-59a4-45ae-8bf8-135cfbd27656,23,Adenomas and Adenocarcinomas,TCGA-AP-A5FX,1099,black or african american,Dead,68,25063,primary,1099,TRUE,Stage IIIC1,Adenocarcinoma with mixed subtypes,no,G3,1,0,1,1,0,0,1,0
+a7329910-b1c7-4a18-b28e-8fad79121339,0,Adenomas and Adenocarcinomas,TCGA-BG-A0MU,'--,white,Alive,78,28621,primary,617,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G1,0,1,1,1,0,0,1,0
+a766d113-bc3f-4448-a4e5-f391fb0c0e22,1255,Adenomas and Adenocarcinomas,TCGA-B5-A0JR,'--,white,Alive,73,26814,primary,1731,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+a798a8cc-4e72-4a8c-9e20-74a14deafd12,6,Adenomas and Adenocarcinomas,TCGA-BG-A0MS,'--,white,Alive,53,19547,primary,1882,TRUE,Stage IIIC1,"Endometrioid adenocarcinoma, NOS",yes,G3,1,0,1,1,0,0,1,0
+a79a4e56-09bf-4691-b7e0-81a9c2620d0f,7,Adenomas and Adenocarcinomas,TCGA-D1-A1NS,'--,white,Alive,53,19638,primary,43,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+a7c565fc-c711-4b63-9549-4cd74d1f57c2,27,Adenomas and Adenocarcinomas,TCGA-BS-A0UM,'--,white,Alive,64,23400,primary,2644,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,1,0,1,1,0,0,1,0
+a7d07151-5fc8-4c2a-a1cd-e7c7a2a9a7a7,'--,Adenomas and Adenocarcinomas,TCGA-AJ-A3BH,'--,white,Alive,'--,'--,primary,'--,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,0,0,0,1,0
+a7fd6522-8953-461f-9e5f-fdeb7d180d46,22,Adenomas and Adenocarcinomas,TCGA-EY-A1GX,1127,white,Dead,76,27962,primary,1127,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,1,0,0
+a8079ea5-c37b-4f77-aca0-b043bf420675,431,Adenomas and Adenocarcinomas,TCGA-B5-A0K2,'--,white,Alive,54,20080,primary,2209,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G1,0,1,1,1,1,0,0,0
+a8614c49-c7f1-4de9-bd2f-4764b094d604,98,Adenomas and Adenocarcinomas,TCGA-A5-A0GG,'--,black or african american,Alive,76,27809,primary,3762,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+a8def1a0-a136-47f4-9ad9-60ebcf9b726b,22,Adenomas and Adenocarcinomas,TCGA-AX-A2HD,'--,white,Alive,69,25499,primary,1414,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+a8f38e37-978b-4435-b676-e8d4c34da909,144,Adenomas and Adenocarcinomas,TCGA-B5-A0K4,'--,'--,Alive,51,18631,primary,1757,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,1,0,0,0
+a93c47a9-65b5-4785-af4f-a2078db4514e,20,"Cystic, Mucinous and Serous Neoplasms",TCGA-AP-A1DP,1081,white,Dead,70,25601,primary,1081,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G2,1,0,1,1,0,0,1,0
+a94de778-9c21-410d-8b9d-0f9240036bb8,'--,'--,TCGA-FL-A1YU,'--,'--,'--,'--,'--,'--,'--,'--,,'--,'--,'--,0,0,0,0,0,0,0,0
+a98bbe29-8817-4380-a738-3c1bf9f8e0cc,5,Adenomas and Adenocarcinomas,TCGA-D1-A1O0,'--,white,Alive,77,28162,primary,63,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+a9b6cd65-f042-4073-9000-4143a2c55373,10,Adenomas and Adenocarcinomas,TCGA-BS-A0V6,'--,asian,Alive,55,20369,primary,2725,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+aa3ad7c0-37cf-4337-945e-cefeee801bbb,-7,Adenomas and Adenocarcinomas,TCGA-AX-A3GB,'--,white,Alive,73,26724,primary,440,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+ab68cd1b-5075-4b30-a829-d6d0f95871cb,15,"Cystic, Mucinous and Serous Neoplasms",TCGA-AJ-A3BD,'--,white,Alive,57,20998,primary,1039,TRUE,Stage IIIC2,Papillary serous cystadenocarcinoma,no,G3,1,0,1,1,0,0,1,0
+ab7adf74-6e87-4117-9742-54e323348e06,46,"Cystic, Mucinous and Serous Neoplasms",TCGA-BK-A26L,'--,white,Alive,71,26002,primary,734,TRUE,Stage IIIC1,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+abaf757b-f79f-40bd-96e3-e2c0f63061f0,22,Adenomas and Adenocarcinomas,TCGA-AX-A1CJ,'--,black or african american,Alive,59,21655,primary,2233,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+ac1d3946-fe6c-4bd8-b02c-638799cb0f67,19,Adenomas and Adenocarcinomas,TCGA-BG-A0LX,'--,white,Alive,57,20928,primary,614,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+ac216bb5-15e4-4462-955e-8a522380690e,-1,"Cystic, Mucinous and Serous Neoplasms",TCGA-D1-A0ZP,'--,white,Alive,59,21581,primary,911,TRUE,Stage IVA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+ac9ec63a-c3b6-4d0c-b1a9-7c72dbad456c,2194,Adenomas and Adenocarcinomas,TCGA-B5-A3FA,'--,white,Alive,73,26850,primary,2929,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+ad0806a5-df9e-48ea-bc8b-d4a3c9ea7ea0,9,Adenomas and Adenocarcinomas,TCGA-AP-A1DQ,1423,white,Dead,76,27815,primary,1423,TRUE,Stage IIIC1,"Endometrioid adenocarcinoma, NOS",no,High Grade,1,1,1,1,0,0,1,0
+ad3d8420-f562-4cbe-ac82-c968bd4f782d,2,Adenomas and Adenocarcinomas,TCGA-BS-A0TA,740,native hawaiian or other pacific islander,Dead,58,21505,primary,740,TRUE,Stage IVB,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+adc22472-e31d-419f-aeae-cb01b9423343,21,Adenomas and Adenocarcinomas,TCGA-A5-A0GU,'--,white,Alive,58,21192,primary,860,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+ae8a4958-5407-4c01-93c3-8090862533ae,0,Adenomas and Adenocarcinomas,TCGA-B5-A5OC,'--,black or african american,Alive,71,26109,primary,1249,TRUE,Stage IIIB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,1,0,0
+af363cec-bec9-4de3-8cc2-e98b0eed2858,45,"Cystic, Mucinous and Serous Neoplasms",TCGA-EO-A2CG,'--,asian,Alive,69,25279,primary,1564,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+af37d8f0-fea0-47f6-be0a-2fb55a5da5c4,0,Adenomas and Adenocarcinomas,TCGA-AP-A053,0,white,Dead,89,32872,primary,0,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",yes,G3,0,0,1,1,0,0,1,0
+af852215-5a4b-44b4-8e8e-b887dcb3cf8c,20,Adenomas and Adenocarcinomas,TCGA-B5-A11Q,'--,white,Alive,64,23538,primary,976,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G1,0,1,1,1,1,0,0,0
+afa79b18-2ac6-4179-9c8c-5fa4d1d09a7e,36,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A2H4,916,white,Dead,66,24234,primary,916,TRUE,Stage IIIA,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+afd710b8-d172-4ac4-9973-e969db1ed231,21,Adenomas and Adenocarcinomas,TCGA-A5-A0RA,'--,white,Alive,68,25060,primary,884,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+b045f24b-f822-4df9-9ffa-47308edcec8c,17,Adenomas and Adenocarcinomas,TCGA-AP-A051,'--,white,Alive,69,25269,primary,3948,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+b19425ab-a82f-4c2a-bf58-d1bd30511d74,88,Adenomas and Adenocarcinomas,TCGA-BS-A0UV,'--,native hawaiian or other pacific islander,Alive,55,20266,primary,2228,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+b1b9173c-b370-4fe5-a263-c807e8a9709c,0,Adenomas and Adenocarcinomas,TCGA-PG-A917,'--,black or african american,Alive,74,27104,primary,212,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+b2aa0220-6387-4eea-b6d4-a4fa0f15b2d9,2258,"Cystic, Mucinous and Serous Neoplasms",TCGA-B5-A1MS,3112,white,Dead,60,22068,primary,3112,TRUE,Stage IC,"Serous cystadenocarcinoma, NOS",'--,G3,1,0,1,1,1,0,0,1
+b3aa16d6-1677-445d-a8d3-46657d4f8b43,-1,Adenomas and Adenocarcinomas,TCGA-EC-A1NJ,'--,white,Alive,73,27002,primary,488,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+b3d635b3-d7ac-4cf8-a318-0a9dd0073e89,13,Adenomas and Adenocarcinomas,TCGA-D1-A0ZO,'--,white,Alive,75,27482,primary,602,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+b43de98d-4bb1-41a1-91f2-ce4e7ea4d0ca,-2,Adenomas and Adenocarcinomas,TCGA-4E-A92E,'--,black or african american,Alive,54,19818,primary,13,TRUE,Stage I,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+b4a520ae-f259-48c8-823e-c10b9b8a133a,28,Adenomas and Adenocarcinomas,TCGA-AP-A0LJ,'--,white,Alive,42,15577,primary,1421,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+b5c1e511-baf2-45b3-9919-110e8941e3c2,35,Adenomas and Adenocarcinomas,TCGA-EC-A24G,'--,white,Alive,57,20857,primary,511,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,1,0,0
+b60f22ac-a659-4f33-b01d-820e86a9a5c9,1939,"Cystic, Mucinous and Serous Neoplasms",TCGA-B5-A0JN,'--,black or african american,Alive,84,30933,primary,1939,TRUE,Stage IVB,"Serous cystadenocarcinoma, NOS",yes,G3,1,0,1,1,0,0,1,0
+b6819b52-6f01-4011-9bd3-a1a00397e0c9,1,Adenomas and Adenocarcinomas,TCGA-AX-A06J,'--,white,Alive,71,26000,primary,913,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+b8588e0f-aad6-4ded-845e-3cff67a48d8f,-23,Adenomas and Adenocarcinomas,TCGA-BG-A0MI,714,white,Dead,83,30334,primary,714,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+b9ab4ab9-ba9c-4a01-9f61-55c82b924936,10,"Cystic, Mucinous and Serous Neoplasms",TCGA-FI-A2CY,'--,black or african american,Alive,60,22098,primary,2080,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+bad34c92-1e64-4187-a0b4-061105fd13ba,13,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A1C8,'--,white,Alive,77,28452,primary,776,TRUE,Stage IIIC,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+bc02493a-0296-4329-939a-bf91a4d0c16a,14,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A1CC,'--,white,Alive,65,23795,primary,788,TRUE,Stage IC,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+bca1057a-1e96-404d-8a37-5a8dc1944ee7,2,Adenomas and Adenocarcinomas,TCGA-D1-A16B,'--,white,Alive,64,23450,primary,1106,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+bd4284a7-260d-48b3-9b48-a1c578c30d27,33,"Cystic, Mucinous and Serous Neoplasms",TCGA-AP-A052,669,black or african american,Dead,59,21721,primary,669,TRUE,Stage IVB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+bee58be0-c2b0-4cdc-adf6-b99243da586a,21,"Cystic, Mucinous and Serous Neoplasms",TCGA-EY-A2ON,610,black or african american,Dead,61,22624,primary,610,TRUE,Stage IVB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+bf632368-8ce7-4b4b-8842-d1b1801e62ef,20,Adenomas and Adenocarcinomas,TCGA-AX-A05Z,'--,'--,Alive,37,13529,primary,2175,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,1,0,0,0
+bfac45a6-fa01-4edb-9807-6898ea82e80e,25,Adenomas and Adenocarcinomas,TCGA-BG-A0MH,'--,white,Alive,61,22475,primary,1930,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+c0b684d1-b96c-4420-9285-172402b7b123,71,Adenomas and Adenocarcinomas,TCGA-AJ-A5DW,'--,black or african american,Alive,56,20711,primary,390,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,1,0,0
+c0db966b-1024-4ee3-899a-f12e3c71a42c,35,Adenomas and Adenocarcinomas,TCGA-B5-A11Y,'--,white,Alive,59,21860,primary,560,TRUE,Stage IB,"Endometrioid adenocarcinoma, secretory variant",no,G1,0,0,1,1,1,0,0,0
+c10b2885-70ea-4d32-bc48-8b85530df702,0,"Cystic, Mucinous and Serous Neoplasms",TCGA-EY-A1GS,670,black or african american,Dead,71,26012,primary,670,TRUE,Stage IVB,"Serous cystadenocarcinoma, NOS",no,G3,1,1,1,1,0,0,1,0
+c1f1dc90-2c67-4862-9e5f-078b861ffc6e,0,Adenomas and Adenocarcinomas,TCGA-SL-A6J9,'--,black or african american,Alive,73,26701,primary,2,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+c306d7e8-5486-41d3-84dd-9311ce3e2069,9,Adenomas and Adenocarcinomas,TCGA-BS-A0U5,'--,white,Alive,76,27945,primary,2935,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+c3096984-bd11-44a0-8ee0-47f07ad04d81,28,"Cystic, Mucinous and Serous Neoplasms",TCGA-A5-A2K3,'--,white,Alive,68,24907,primary,2012,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+c350b53b-3c27-4b9e-8b57-d7b6a1205a1f,37,"Cystic, Mucinous and Serous Neoplasms",TCGA-AP-A05A,1944,white,Dead,81,29914,primary,1944,TRUE,Stage II,"Serous cystadenocarcinoma, NOS",no,G3,0,1,1,1,0,0,1,0
+c4f8f33f-a07c-4dfb-be24-c52d577bd640,0,"Cystic, Mucinous and Serous Neoplasms",TCGA-A5-A2K4,871,white,Dead,69,25270,primary,871,TRUE,Stage IIIA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+c5a797d3-82ae-49dc-b2fe-0da64da271a2,7,Adenomas and Adenocarcinomas,TCGA-AP-A0LS,'--,white,Alive,63,23126,primary,2904,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",yes,G2,0,0,1,1,1,0,0,0
+c5df9142-27f6-4d97-933e-c79ea9199362,21,Adenomas and Adenocarcinomas,TCGA-D1-A15Z,58,white,Dead,72,26638,primary,58,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+c68dd983-b199-4f53-ac0c-b2d8dd6a7931,14,Adenomas and Adenocarcinomas,TCGA-D1-A17A,'--,white,Alive,59,21560,primary,48,TRUE,Stage IIA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+c71e0986-56c0-45f4-be8d-2236e4418604,14,Adenomas and Adenocarcinomas,TCGA-EY-A1H0,'--,black or african american,Alive,57,20937,primary,588,TRUE,Stage IIIC2,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,0,0,1,0
+c7b3ac87-5260-4042-895a-279cd8cda620,77,Adenomas and Adenocarcinomas,TCGA-AJ-A5DV,'--,black or african american,Alive,65,23892,primary,679,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,1,0,0
+c856e031-bbd0-431f-b44f-b3ad9b39af7b,51,Adenomas and Adenocarcinomas,TCGA-AJ-A3EM,'--,white,Alive,69,25557,primary,677,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+c88e3901-f3ee-436a-ba80-143c8eab7d69,29,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A2H5,'--,black or african american,Alive,67,24757,primary,2167,TRUE,Stage IIIC,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+c8d672ed-9910-4f80-b222-38c833f55850,42,Adenomas and Adenocarcinomas,TCGA-A5-A0GQ,'--,white,Alive,76,28078,primary,2247,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+c8fb94dd-c535-48f4-9419-aac2bf47bbb4,210,Adenomas and Adenocarcinomas,TCGA-AJ-A3NC,'--,white,Alive,63,23353,primary,1125,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+c9ebaeff-6a27-4a6c-a34c-5337a3508a52,75,"Cystic, Mucinous and Serous Neoplasms",TCGA-KP-A3W0,'--,'--,Alive,72,26378,primary,404,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+ca594f56-9c68-4b7e-84b2-669f1004e3a4,965,Adenomas and Adenocarcinomas,TCGA-B5-A11N,'--,white,Alive,69,25442,primary,1876,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+ca7f9d8b-2abc-4606-bf95-4c42791b38bd,69,Adenomas and Adenocarcinomas,TCGA-AP-A1DM,'--,white,Alive,60,22239,primary,1700,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+ca858743-1f06-40e3-accf-395d08375b63,12,Adenomas and Adenocarcinomas,TCGA-BS-A0V7,'--,native hawaiian or other pacific islander,Alive,48,17810,primary,1934,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+ca8dbbfd-8928-4e25-94c6-b875de631bbd,8,Adenomas and Adenocarcinomas,TCGA-D1-A17Q,'--,white,Alive,54,20015,primary,54,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+caebdce0-f954-471a-ac63-5daaa2e76d97,18,Adenomas and Adenocarcinomas,TCGA-AX-A1C5,'--,white,Alive,47,17383,primary,1001,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+cbe0bd4a-02b7-43e7-b08e-2b0f13560eaf,'--,Adenomas and Adenocarcinomas,TCGA-AX-A05Y,'--,white,Alive,57,20904,primary,2684,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",'--,G1,0,0,1,1,0,0,1,0
+cc058b8c-df40-4f9e-88e3-3d1131b22b41,44,Adenomas and Adenocarcinomas,TCGA-BG-A0VT,'--,white,Alive,56,20602,primary,1568,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,1,0,0,0
+cc141997-edab-4aae-a056-0c079eaa7362,31,Adenomas and Adenocarcinomas,TCGA-B5-A11Z,'--,white,Alive,61,22505,primary,528,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+cca5717d-226d-4390-a99b-c7aed6d9d70e,31,Adenomas and Adenocarcinomas,TCGA-AP-A0LG,'--,white,Alive,54,20047,primary,2015,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+ce73d0aa-bb3d-4aa3-8ed3-e9912cf25d38,19,Adenomas and Adenocarcinomas,TCGA-BK-A13C,'--,black or african american,Alive,47,17317,primary,760,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+cf77afe9-3785-45d4-ba2a-61c9cb706225,44,Adenomas and Adenocarcinomas,TCGA-A5-A2K5,'--,white,Alive,76,28057,primary,752,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+cfd096ac-4d0f-4b89-8822-00656bc7f516,447,Adenomas and Adenocarcinomas,TCGA-B5-A11S,'--,white,Alive,63,23085,primary,2229,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+d129ebb4-db21-4342-8d9b-318a67aefa56,507,Adenomas and Adenocarcinomas,TCGA-B5-A0JZ,'--,white,Alive,60,22106,primary,2173,TRUE,Stage IIIC1,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+d17668c4-5d66-4e16-8b70-b54616581aae,10,Adenomas and Adenocarcinomas,TCGA-AP-A0LL,'--,white,Alive,56,20700,primary,2554,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,1,1,1,0,0,1,0
+d1b615f4-50c9-497b-8a69-8de78aa17e09,102,Adenomas and Adenocarcinomas,TCGA-AX-A060,'--,american indian or alaska native,Alive,77,28472,primary,1075,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+d1c65e6a-098e-4c10-9183-c303ba66015a,575,Adenomas and Adenocarcinomas,TCGA-B5-A11P,'--,white,Alive,87,32047,primary,825,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",'--,G3,0,0,1,1,1,0,0,0
+d213da3a-ff1c-4fbd-8d4e-7f9e6a2318d0,8,"Cystic, Mucinous and Serous Neoplasms",TCGA-E6-A2P8,72,black or african american,Dead,53,19448,primary,72,TRUE,Stage IV,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+d2aa7d70-a25f-4a9e-9d52-37e372461824,3077,Adenomas and Adenocarcinomas,TCGA-B5-A11G,'--,black or african american,Alive,71,25995,primary,3448,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+d383008a-a1bf-4689-b243-3c464c79b818,22,Adenomas and Adenocarcinomas,TCGA-EO-A3AV,'--,'--,Alive,51,18713,primary,1069,TRUE,Stage IIIC1,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+d39df936-4bc6-404d-9e1d-f6416cc5a34c,36,"Cystic, Mucinous and Serous Neoplasms",TCGA-AJ-A23M,616,white,Dead,61,22430,primary,616,TRUE,Stage II,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+d3c83c5e-acb1-4cb0-8f56-96341822582f,106,Adenomas and Adenocarcinomas,TCGA-B5-A11V,'--,black or african american,Alive,64,23630,primary,595,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+d3e93d76-6565-454a-a085-4492024350e9,77,Adenomas and Adenocarcinomas,TCGA-DI-A1NO,285,black or african american,Dead,68,24996,primary,285,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+d438c58e-f038-47a3-8e62-485a5aca9695,-13,Adenomas and Adenocarcinomas,TCGA-DF-A2KN,'--,'--,Alive,'--,'--,primary,67,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,1,0,0
+d46d5af5-62ae-43eb-a885-4c078e0c956e,5,Adenomas and Adenocarcinomas,TCGA-EY-A1GL,'--,white,Alive,51,18761,primary,1014,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+d5ee39e8-a1d2-4244-9c38-07d7c5c1baba,48,"Cystic, Mucinous and Serous Neoplasms",TCGA-B5-A5OE,'--,black or african american,Alive,68,24905,primary,1063,TRUE,Stage IIIC2,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,1,0,0
+d5f2bae1-7cd1-49bf-ae41-12d2aa44408e,1018,Adenomas and Adenocarcinomas,TCGA-B5-A0JT,'--,white,Alive,63,23041,primary,1682,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G1,0,1,1,1,1,0,0,0
+d6303a05-f705-4413-8860-506a105d5b08,21,"Cystic, Mucinous and Serous Neoplasms",TCGA-K6-A3WQ,427,white,Dead,60,22092,primary,427,TRUE,Stage IVB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+d6562acf-6d82-4f08-a779-82cdc5df16f9,16,Adenomas and Adenocarcinomas,TCGA-D1-A15W,'--,white,Alive,58,21545,primary,915,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G1,1,0,1,1,0,0,1,0
+d70b3c6e-04da-4abc-a832-a461e4cfcc94,16,Adenomas and Adenocarcinomas,TCGA-AX-A1CN,'--,white,Alive,54,19860,primary,1143,TRUE,Stage IIB,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+d72264ec-d4d7-423a-9216-ae4485f81aba,'--,'--,TCGA-FL-A1YN,'--,'--,'--,'--,'--,'--,'--,'--,,'--,'--,'--,0,0,0,0,0,0,0,0
+d7258a64-3ea0-40fc-b3f4-b581a1725fff,1,"Cystic, Mucinous and Serous Neoplasms",TCGA-D1-A1NW,'--,white,Alive,72,26556,primary,22,TRUE,Stage IVB,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+d74bc72e-8103-4aed-8958-5f40953d48eb,6,Adenomas and Adenocarcinomas,TCGA-D1-A0ZU,'--,white,Alive,34,12458,primary,872,TRUE,Stage IB,"Endometrioid adenocarcinoma, secretory variant",no,G2,1,0,1,1,1,0,0,0
+d77e4dbc-b239-4742-8cb7-efd427010d13,20,Adenomas and Adenocarcinomas,TCGA-AP-A054,709,white,Dead,64,23404,primary,709,TRUE,Stage IIIC1,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+d79e692c-5053-4484-a180-01a094c5ff45,21,"Cystic, Mucinous and Serous Neoplasms",TCGA-B5-A1N2,954,black or african american,Dead,70,25612,primary,954,TRUE,Stage IIIC1,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+d8e57746-37a1-482a-a3d3-a11bd00cdc11,40,"Cystic, Mucinous and Serous Neoplasms",TCGA-BG-A0YV,'--,white,Alive,67,24567,primary,382,TRUE,Stage IIIA,"Serous cystadenocarcinoma, NOS",yes,G3,0,0,1,1,1,0,0,0
+d9f4a2c1-ac6d-48c6-95fe-ffbc2fa08268,26,"Cystic, Mucinous and Serous Neoplasms",TCGA-AJ-A2QM,'--,white,Alive,67,24776,primary,894,TRUE,Stage II,"Serous cystadenocarcinoma, NOS",yes,G3,1,0,1,1,0,0,1,0
+da0474b3-48ab-4398-ae4b-f15e27e99b2d,56,Adenomas and Adenocarcinomas,TCGA-AX-A2H8,'--,white,Alive,64,23448,primary,1861,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",yes,G3,0,0,1,1,0,0,1,0
+db21fccf-40cb-4235-a34d-336a03b8c8f4,20,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A0IW,'--,white,Alive,67,24488,primary,1149,TRUE,Stage IIIA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+db3a4986-55d5-4ecc-be73-59725dce3c33,'--,Adenomas and Adenocarcinomas,TCGA-EY-A1G8,456,white,Dead,83,30517,primary,456,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+db67a9cd-65ba-4d6f-a799-031b6b3df599,29,"Cystic, Mucinous and Serous Neoplasms",TCGA-EO-A3KU,'--,'--,Alive,68,25116,primary,677,TRUE,Stage II,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+dbbbddae-d711-40f5-bd10-863735885b1f,10,Adenomas and Adenocarcinomas,TCGA-D1-A16N,'--,white,Alive,51,18787,primary,945,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+dcf1beb9-bce4-4f4c-98dd-1226d8e0c125,92,Adenomas and Adenocarcinomas,TCGA-AJ-A2QO,1045,white,Dead,85,31222,primary,1045,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+dcfbe781-a92a-45b5-b80a-e3bb3bdc0d9a,95,Adenomas and Adenocarcinomas,TCGA-FI-A2D5,421,white,Dead,56,20666,primary,421,TRUE,Stage IVB,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+dcff8659-ecca-4798-80a3-dd6e7642ba2b,20,Adenomas and Adenocarcinomas,TCGA-AP-A0LE,'--,white,Alive,57,20967,primary,3357,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+de4e13c8-5ad0-46d2-ae54-b9ca22b939d8,43,"Cystic, Mucinous and Serous Neoplasms",TCGA-EO-A1Y8,'--,'--,Alive,87,31971,primary,901,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+de5abe44-6d9d-4797-a57a-5adfd71383f0,12,Adenomas and Adenocarcinomas,TCGA-AJ-A2QK,'--,white,Alive,65,23945,primary,643,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,1,0,0
+ded408ee-053a-43ed-9bcf-1d15cd203051,36,"Cystic, Mucinous and Serous Neoplasms",TCGA-A5-A7WK,'--,black or african american,Alive,71,26044,primary,560,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+dee43082-4aa7-4650-981c-a779e9fe7b55,2317,Adenomas and Adenocarcinomas,TCGA-B5-A11H,'--,white,Alive,67,24556,primary,2687,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G2,0,1,1,1,0,0,1,0
+df01a5ee-e8b5-40b0-8a6a-b6b3faed9df9,1,"Cystic, Mucinous and Serous Neoplasms",TCGA-D1-A1NX,'--,white,Alive,66,24441,primary,555,TRUE,Stage IIIC,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+df15901c-2508-42c9-bf06-026efd89e51f,47,Adenomas and Adenocarcinomas,TCGA-QF-A5YS,'--,black or african american,Alive,57,20841,primary,689,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G2,1,0,1,1,1,0,0,0
+df27b584-fa45-4a8f-bd12-a018cc63dca1,11,"Cystic, Mucinous and Serous Neoplasms",TCGA-EY-A4KR,346,black or african american,Dead,56,20669,primary,346,TRUE,Stage IIIC1,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+df857bc6-fd6a-4713-bef9-6ee1301e5fb1,20,Adenomas and Adenocarcinomas,TCGA-BS-A0TI,'--,white,Alive,64,23705,primary,1882,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+dffc7091-bc27-452c-ad94-1ee214107593,37,Adenomas and Adenocarcinomas,TCGA-FI-A2CX,'--,white,Alive,82,30224,primary,2031,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",yes,G3,0,0,1,1,1,0,0,0
+e00f6dc5-bc8b-472d-bac3-c7823364f01e,73,Adenomas and Adenocarcinomas,TCGA-AJ-A2QN,'--,white,Alive,60,21915,primary,1069,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+e055db71-f3da-43d3-a9b2-2f65dfb23d3e,13,Adenomas and Adenocarcinomas,TCGA-BG-A0M8,'--,white,Alive,50,18308,primary,2020,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",yes,G3,0,0,1,1,0,0,1,0
+e095a927-d985-4fbd-8093-46c1c6ace4de,8,Adenomas and Adenocarcinomas,TCGA-BS-A0WQ,'--,asian,Alive,55,20131,primary,2022,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+e0d13e2d-cf48-4b66-bfc2-88f872f67d79,32,Adenomas and Adenocarcinomas,TCGA-EY-A1GT,'--,white,Alive,68,25151,primary,490,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G1,1,0,1,1,1,0,0,0
+e17a5fca-616c-4a74-abe7-778539ecdc0b,-1,Adenomas and Adenocarcinomas,TCGA-D1-A3DA,'--,white,Alive,77,28142,primary,483,TRUE,Stage IIIC1,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+e1e8dc66-467c-48a5-be56-3db4f665b9f1,62,"Cystic, Mucinous and Serous Neoplasms",TCGA-AP-A0LI,'--,black or african american,Alive,67,24573,primary,2972,TRUE,Stage IIIC2,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+e297551c-a662-4677-b00d-0d9be232adca,8,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A1CP,'--,white,Alive,84,30737,primary,1107,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",yes,G3,0,0,1,1,1,0,0,0
+e2b1d0de-5221-44a1-8fad-9708a3cada14,16,Adenomas and Adenocarcinomas,TCGA-BS-A0UT,'--,asian,Alive,62,22775,primary,2212,TRUE,Stage IIB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+e2b48d0d-57ca-400b-8598-55ef132e350e,30,Adenomas and Adenocarcinomas,TCGA-B5-A1MW,'--,white,Alive,55,20183,primary,447,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+e31db89c-15ac-45a4-9788-afb339b0f3bc,-22,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A3G6,'--,white,Alive,67,24681,primary,8,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+e3dcde4e-5def-4b89-97b4-047b8288919b,-27,Adenomas and Adenocarcinomas,TCGA-E6-A1M0,'--,white,Alive,56,20629,primary,1793,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+e3e39474-c2b0-45af-bbe1-4c24f17cc284,8,"Cystic, Mucinous and Serous Neoplasms",TCGA-EY-A1GV,'--,white,Alive,75,27581,primary,481,TRUE,Stage IIIC1,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+e3f515f8-a940-40d1-86b0-baed0f410f2c,14,Adenomas and Adenocarcinomas,TCGA-BS-A0V4,'--,white,Alive,56,20777,primary,1810,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+e4510c66-a60b-4b09-a4e8-74ec5b26a3a5,29,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A2H2,145,black or african american,Dead,86,31524,primary,145,TRUE,Stage IIA,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+e46b6434-ee88-4630-9fc3-441afc431745,155,Adenomas and Adenocarcinomas,TCGA-DI-A1BY,'--,white,Alive,63,23113,primary,1114,TRUE,Stage IIB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,1,0,0
+e4787c7b-40e7-483c-98c0-38da03e26b56,-20,"Cystic, Mucinous and Serous Neoplasms",TCGA-AX-A3GI,'--,black or african american,Alive,66,24388,primary,12,TRUE,Stage IIIC,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+e49f545f-3268-4d25-b7a3-4da8e6ab2578,0,Adenomas and Adenocarcinomas,TCGA-D1-A1NZ,'--,white,Alive,60,22027,primary,548,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+e4bccea0-0104-40c4-9e3c-2ad7262d918e,71,Adenomas and Adenocarcinomas,TCGA-QF-A5YT,'--,black or african american,Alive,57,20981,primary,1215,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G1,1,0,1,1,1,0,0,0
+e55dd65a-c75e-4a3c-bb24-8b3af4d65321,158,Adenomas and Adenocarcinomas,TCGA-D1-A17B,'--,white,Alive,69,25504,primary,213,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+e56491af-718f-4ca1-b3cd-0e5b3154697b,8,"Cystic, Mucinous and Serous Neoplasms",TCGA-D1-A1NU,'--,white,Alive,74,27272,primary,402,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+e56c6abc-b36c-4667-a347-0a541ce4791d,65,Adenomas and Adenocarcinomas,TCGA-AX-A05U,'--,american indian or alaska native,Alive,56,20533,primary,903,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+e5d64754-15e8-494e-b7f7-25cf2819fe4c,39,Adenomas and Adenocarcinomas,TCGA-AJ-A3I9,519,white,Dead,52,19139,primary,519,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+e5d74e47-b63f-410a-8b7a-c9aacc9aa337,28,Adenomas and Adenocarcinomas,TCGA-AX-A06H,'--,american indian or alaska native,Alive,60,22270,primary,833,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G1,1,0,1,1,1,0,0,0
+e604f5d4-f2c0-4404-9073-b8dbc8396778,-4,Adenomas and Adenocarcinomas,TCGA-B5-A0KB,'--,black or african american,Alive,62,22669,primary,824,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",'--,G3,1,0,1,1,1,0,0,0
+e6183a43-24b9-4fe1-95c3-4cff67e6c1ed,20,Adenomas and Adenocarcinomas,TCGA-EO-A22Y,'--,white,Alive,68,25127,primary,1567,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+e70465f6-1922-4eb7-b646-8b01ad3ce77b,20,Adenomas and Adenocarcinomas,TCGA-D1-A16E,'--,white,Alive,73,26859,primary,1119,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+e71b3ce1-41e0-4cfc-9570-367b8c2124c1,36,Adenomas and Adenocarcinomas,TCGA-BK-A13B,'--,black or african american,Alive,58,21493,primary,966,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,1,0,0
+e7e667be-9b31-4870-9c38-740098f37213,43,Adenomas and Adenocarcinomas,TCGA-BG-A221,'--,white,Alive,84,30960,primary,55,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",yes,G3,0,0,1,1,0,0,1,0
+e8909bdf-460c-4291-8e9b-7be12f343eae,28,Adenomas and Adenocarcinomas,TCGA-AX-A063,'--,white,Alive,63,23045,primary,2417,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+e8c58d8b-51d7-4599-af79-469ee6f269db,10,Adenomas and Adenocarcinomas,TCGA-D1-A177,'--,white,Alive,70,25602,primary,548,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+e8c7195b-a26b-4d98-b1c5-0aa18385e9c8,25,"Cystic, Mucinous and Serous Neoplasms",TCGA-PG-A6IB,'--,black or african american,Alive,68,24969,primary,648,TRUE,Stage IA,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+e9fa66f5-282c-416a-9dcf-46714ea12fcf,'--,"Cystic, Mucinous and Serous Neoplasms",TCGA-DI-A2QU,946,white,Dead,67,24488,primary,946,TRUE,Stage IVB,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,0,1,0,0,0
+ea1c693d-490d-4816-b6e3-d12946ad7cc1,14,"Cystic, Mucinous and Serous Neoplasms",TCGA-EY-A210,'--,black or african american,Alive,82,30095,primary,383,TRUE,Stage IIIC2,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+ea95897e-3fe0-4c79-b170-88b0f229794c,0,"Cystic, Mucinous and Serous Neoplasms",TCGA-PG-A915,'--,black or african american,Alive,60,22119,primary,249,TRUE,Stage IA,Serous surface papillary carcinoma,no,G3,0,0,1,1,0,0,1,0
+eb642568-30d4-4805-a295-bda314ccaaaf,19,"Cystic, Mucinous and Serous Neoplasms",TCGA-E6-A8L9,'--,black or african american,Alive,61,22333,primary,1013,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+ebc25a41-becb-4395-ae33-483a304b07d8,-2,Adenomas and Adenocarcinomas,TCGA-EY-A1GC,'--,white,Alive,62,22656,primary,1647,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+ec2040a3-788b-4f2c-a093-c5c4b3dc4b6c,1155,Adenomas and Adenocarcinomas,TCGA-B5-A3FC,'--,black or african american,Alive,53,19422,primary,2185,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+ec7a9d74-8b3f-4747-8926-1739a016ab2b,40,Adenomas and Adenocarcinomas,TCGA-AX-A0J1,'--,white,Alive,80,29501,primary,2354,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+edee2bf5-284c-4d77-823a-d037fe4c4b9e,14,Adenomas and Adenocarcinomas,TCGA-BG-A0VZ,'--,white,Alive,58,21414,primary,1601,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G1,1,0,1,1,0,0,1,0
+ee932b34-0114-41dc-b119-210c0ed84bcb,'--,"Cystic, Mucinous and Serous Neoplasms",TCGA-DI-A2QT,377,american indian or alaska native,Dead,51,18835,primary,377,TRUE,Stage IIIC,"Serous cystadenocarcinoma, NOS",no,G3,0,0,1,0,1,0,0,0
+eeb327b4-b705-4161-ba94-647f0e14f5b4,48,Adenomas and Adenocarcinomas,TCGA-B5-A3FD,1197,black or african american,Dead,70,25813,primary,1197,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,1
+efa4c675-e35e-4f48-8d12-a40f30b63ddb,15,Adenomas and Adenocarcinomas,TCGA-D1-A17T,'--,white,Alive,67,24652,primary,71,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+efae3940-d3cc-4988-bdb4-fa05d977aff5,22,Adenomas and Adenocarcinomas,TCGA-AP-A0LP,'--,white,Alive,76,27898,primary,1875,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,1,1,1,0,0,1,0
+f04befed-6c81-4676-8715-b8c6a33cb9d1,466,Adenomas and Adenocarcinomas,TCGA-B5-A11R,'--,black or african american,Alive,51,18878,primary,2349,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+f054a123-322f-444a-9971-53d3df371753,24,Adenomas and Adenocarcinomas,TCGA-D1-A1O5,'--,white,Alive,61,22580,primary,458,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+f0b3ab10-43f8-48a8-b460-66ceaaf637db,14,Adenomas and Adenocarcinomas,TCGA-D1-A175,'--,white,Alive,48,17802,primary,202,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+f17bb238-2651-48a5-9a47-5077218efe08,43,Adenomas and Adenocarcinomas,TCGA-EC-A1QX,'--,white,Alive,71,26259,primary,224,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,1,0,0
+f17e446a-c145-45be-8335-a856acb0b9b8,18,Adenomas and Adenocarcinomas,TCGA-AX-A06F,'--,white,Alive,59,21624,primary,1748,TRUE,Stage IVA,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+f299ad43-bb16-46ce-9617-48cc6c6f29e7,7,Adenomas and Adenocarcinomas,TCGA-BG-A0RY,'--,white,Alive,68,24952,primary,469,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+f384eb3f-92ab-4327-87eb-45b5f72a1580,28,"Cystic, Mucinous and Serous Neoplasms",TCGA-BG-A2AE,'--,white,Alive,57,21069,primary,721,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+f42868c0-ff59-438b-90a7-489aea678de9,25,Adenomas and Adenocarcinomas,TCGA-A5-A2K7,'--,'--,Alive,41,14980,primary,1063,TRUE,Stage II,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+f47df5f9-7c60-4b1a-b574-7036245af341,21,Adenomas and Adenocarcinomas,TCGA-BG-A0W2,'--,white,Alive,57,20998,primary,1721,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+f4a7f2ff-be76-48d3-9f59-9223db33680e,7,Adenomas and Adenocarcinomas,TCGA-AX-A06L,'--,white,Alive,63,23294,primary,1845,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+f5261330-596e-4632-a5a3-8d3a2aa5de38,1437,"Cystic, Mucinous and Serous Neoplasms",TCGA-B5-A1MU,1548,white,Dead,79,29027,primary,1548,TRUE,Stage IVB,"Serous cystadenocarcinoma, NOS",no,G3,0,1,1,1,0,0,1,0
+f5bd3902-ff7f-4233-8f74-beef3676af9a,13,Adenomas and Adenocarcinomas,TCGA-B5-A11W,'--,white,Alive,61,22365,primary,593,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,1,0,0,0
+f6d136c7-c250-4361-9fed-50f513959a40,1789,Adenomas and Adenocarcinomas,TCGA-B5-A11I,'--,black or african american,Alive,65,23857,primary,2303,TRUE,Stage IVB,"Adenocarcinoma, NOS",no,G3,1,1,1,1,0,0,1,0
+f7010b87-a559-4501-99f9-0fcca1e986e1,3,"Cystic, Mucinous and Serous Neoplasms",TCGA-D1-A15V,'--,white,Alive,68,24886,primary,1201,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+f70a64a8-3faa-468a-a6f3-4815eb01e5a3,58,"Epithelial Neoplasms, NOS",TCGA-B5-A11X,'--,black or african american,Alive,66,24217,primary,596,TRUE,Stage IIIC2,"Carcinoma, undifferentiated, NOS",no,G3,1,0,1,1,0,0,1,1
+f7165dea-c528-44f3-954f-e111a3d77b4e,9,Adenomas and Adenocarcinomas,TCGA-EY-A2OP,'--,white,Alive,63,23090,primary,944,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+f74da4c6-4291-46d2-abd4-7d7f6ef03b00,9,Adenomas and Adenocarcinomas,TCGA-BS-A0TJ,'--,asian,Alive,59,21663,primary,2068,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+f7527b5e-5330-49ea-82ce-f6f2cdccbadc,-2,Adenomas and Adenocarcinomas,TCGA-AX-A3G9,'--,white,Alive,63,23361,primary,558,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+f77d7256-2ccf-42a7-9b30-332ac24ca812,7,Adenomas and Adenocarcinomas,TCGA-BS-A0UF,'--,asian,Alive,65,23771,primary,2611,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+f7e06a10-74ca-4f52-a944-b3f22c016998,33,"Cystic, Mucinous and Serous Neoplasms",TCGA-AP-A05D,'--,white,Alive,67,24597,primary,1758,TRUE,Stage IIIC2,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+f8360744-6bc8-4f53-b1fc-a133789455a8,'--,'--,TCGA-FL-A1YM,'--,'--,'--,'--,'--,'--,'--,'--,,'--,'--,'--,0,0,0,0,0,0,0,0
+f85bc60b-ab07-4b24-820b-6860b198e910,46,Adenomas and Adenocarcinomas,TCGA-BG-A0MA,326,white,Dead,60,22036,primary,326,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+f8ac5fd2-11f2-4b3a-a3a6-ff1a6d8e1cae,12,Adenomas and Adenocarcinomas,TCGA-EY-A1GW,337,white,Dead,73,26979,primary,337,TRUE,Stage IVB,"Endometrioid adenocarcinoma, NOS",no,G3,1,0,1,1,0,0,1,0
+f9cf4125-0db3-4b66-b51b-bc2f0240c9ef,3,Adenomas and Adenocarcinomas,TCGA-D1-A102,'--,white,Alive,49,17991,primary,135,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+fae3dbd7-1c4e-45c0-8187-c09892279565,28,"Cystic, Mucinous and Serous Neoplasms",TCGA-AJ-A4ZG,'--,black or african american,Alive,53,19492,primary,498,TRUE,Stage IVB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,0,1,0,0
+fb7475df-30cc-4316-b9ac-37cbeeb6ba2b,4,Adenomas and Adenocarcinomas,TCGA-BS-A0U8,'--,white,Alive,55,20402,primary,2963,TRUE,Stage IIIC,"Endometrioid adenocarcinoma, NOS",no,G1,1,0,1,1,0,0,1,0
+fba80122-d8b2-4d8d-a032-9767e8160f9f,2,Adenomas and Adenocarcinomas,TCGA-AX-A1CI,'--,white,Alive,61,22582,primary,2600,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+fbfed398-2a44-44a9-83cf-657c29cb7d28,136,Adenomas and Adenocarcinomas,TCGA-SJ-A6ZJ,'--,black or african american,Alive,61,22597,primary,556,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+fc7315b0-9f48-4206-b197-2268c0518eb4,9,Adenomas and Adenocarcinomas,TCGA-D1-A174,'--,white,Alive,51,18702,primary,594,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+fd370e9d-2719-45e0-b8f1-048ed1ee602f,893,Adenomas and Adenocarcinomas,TCGA-B5-A11M,'--,white,Alive,43,16063,primary,1362,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+fdb395e7-ff30-400d-861e-0cf2462ee390,30,Adenomas and Adenocarcinomas,TCGA-H5-A2HR,'--,black or african american,Alive,71,25986,primary,53,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+fe2e89f7-8f4d-420a-a551-4877cf0fd1d3,22,Adenomas and Adenocarcinomas,TCGA-EO-A3KX,'--,white,Alive,80,29260,primary,1170,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,1,0,0,0
+fe4db898-3a9f-4dff-adcb-7b8c30137350,59,Adenomas and Adenocarcinomas,TCGA-BG-A186,'--,black or african american,Alive,61,22370,primary,419,TRUE,Stage IIIA,"Endometrioid adenocarcinoma, NOS",no,G2,0,0,1,1,0,0,1,0
+fe5f4822-37a3-4f9e-8d33-8b9f36bf6895,16,"Cystic, Mucinous and Serous Neoplasms",TCGA-AP-A05H,'--,white,Alive,75,27744,primary,1385,TRUE,Stage IB,"Serous cystadenocarcinoma, NOS",no,G3,1,0,1,1,1,0,0,0
+fe79ebe1-cd0a-4ce2-a86d-637c28354ed9,18,Adenomas and Adenocarcinomas,TCGA-AX-A2IN,947,white,Dead,63,23275,primary,947,TRUE,Stage IC,"Endometrioid adenocarcinoma, NOS",no,G3,0,0,1,1,0,0,1,0
+feb3e930-3638-44b4-ac0f-a5dcb01fed76,40,Adenomas and Adenocarcinomas,TCGA-BG-A18A,'--,white,Alive,74,27086,primary,426,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,1,0,0,0
+ff6b5fc8-0572-4b58-b3a5-bcda41badbc8,-7,"Cystic, Mucinous and Serous Neoplasms",TCGA-PG-A914,'--,black or african american,Alive,73,26992,primary,687,TRUE,Stage IA,Serous surface papillary carcinoma,no,G3,0,0,1,1,0,0,1,0
+ff82548a-f1bb-4daa-a8f7-b3831b5843ad,16,Adenomas and Adenocarcinomas,TCGA-BS-A0UJ,'--,asian,Alive,68,25149,primary,2506,TRUE,Stage IA,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
+ffaa98a0-2b69-46dc-aee5-c5c3f2abbc38,0,Adenomas and Adenocarcinomas,TCGA-BS-A0TD,'--,asian,Alive,65,23950,primary,2379,TRUE,Stage IB,"Endometrioid adenocarcinoma, NOS",no,G1,0,0,1,1,0,0,1,0
